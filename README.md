@@ -1,16 +1,45 @@
-## Hi there 👋
+# Igor Santos
 
-<!--
-**IgorSantosD3v/IgorSantosD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Back-End Developer | Python | Software Engineering (em formação)
 
-Here are some ideas to get you started:
+Sou estudante de desenvolvimento back-end com foco em **Python** e fundamentos de **engenharia de software**.  
+Tenho interesse em lógica de programação, APIs, automação e construção de sistemas bem estruturados.  
+Atualmente estou em fase de aprendizado prático, evoluindo por meio de estudos, exercícios e projetos pessoais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é atuar profissionalmente como **desenvolvedor back-end**, aprofundando conceitos como arquitetura de software, boas práticas, código limpo e escalabilidade.
+
+---
+
+## 🛠️ Tecnologias e Conhecimentos
+
+- **Python**
+- Lógica de Programação
+- Estruturas de Dados (básico)
+- APIs REST (conceitos)
+- Git & GitHub
+- Programação Orientada a Objetos (fundamentos)
+- Banco de Dados (conceitos iniciais)
+- Tratamento de erros e boas práticas
+
+---
+
+## 📚 Em aprendizado contínuo
+
+- Back-end com Python
+- Engenharia de Software
+- Arquitetura e organização de código
+- Desenvolvimento de APIs
+- Boas práticas e versionamento
+
+---
+
+## 🚧 Projetos
+
+Os projetos deste perfil representam minha evolução no desenvolvimento back-end.  
+Novos repositórios serão adicionados conforme avanço nos estudos e na prática.
+
+---
+
+📍 Brasil  
+🔗 LinkedIn: (adicione quando quiser)
+
