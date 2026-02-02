@@ -41,5 +41,5 @@ Novos repositórios serão adicionados conforme avanço nos estudos e na prátic
 ---
 
 📍 Brasil  
-🔗 LinkedIn: (adicione quando quiser)
+🔗 LinkedIn:(https://www.linkedin.com/in/igor-santos-7b993b357/)
 
