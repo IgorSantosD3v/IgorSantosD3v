@@ -14,8 +14,8 @@ Meu objetivo é atuar profissionalmente como **desenvolvedor back-end**, aprofun
 
 - **Python**
 - Lógica de Programação
-- Estruturas de Dados (básico)
-- APIs REST (conceitos)
+- Estruturas de Dados 
+- APIs REST 
 - Git & GitHub
 - Programação Orientada a Objetos (fundamentos)
 - Banco de Dados (conceitos iniciais)
