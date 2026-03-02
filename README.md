@@ -18,7 +18,7 @@ Meu objetivo é atuar profissionalmente como **desenvolvedor back-end**, aprofun
 - APIs REST 
 - Git & GitHub
 - Programação Orientada a Objetos (fundamentos)
-- Banco de Dados (conceitos iniciais)
+- Banco de Dados 
 - Tratamento de erros e boas práticas
 
 ---
