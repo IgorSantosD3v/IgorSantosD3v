@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-7b993b357/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorp.y/?hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorSantosD3v)
 
 </div>
 
@@ -17,7 +17,7 @@
 ```python
 class IgorSantos:
     role       = "Back-End Developer"
-    location   = "Brasil 🇧🇷  →  World 🌍"
+    location   = "Brasil 🇧🇷  →  World"
     goal       = "International opportunities in Back-End / Software Engineering"
     learning   = ["System Design", "Clean Architecture", "Cloud & DevOps"]
     languages  = ["Portuguese (native)", "English (in progress)"]
@@ -26,7 +26,7 @@ class IgorSantos:
         return "Building scalable systems & targeting global markets 🚀"
 ```
 
-Sou desenvolvedor back-end com foco em **Python** e **.NET**, construindo sistemas robustos, APIs escaláveis e soluções com **Inteligência Artificial generativa**.  
+Sou desenvolvedor back-end e atualmente estou trabalhando com **Python** e **.NET**, construindo sistemas robustos, APIs escaláveis e soluções com **Inteligência Artificial generativa**.  
 Estou em constante evolução técnica e com os olhos voltados para **oportunidades internacionais** — onde código de qualidade fala mais alto que qualquer fronteira.
 
 ---
@@ -82,7 +82,7 @@ Estou em constante evolução técnica e com os olhos voltados para **oportunida
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&locale=pt_BR)
+![GitHub Streak](https://streak-stats.demolab.com?user=IgorSantosD3v&theme=tokyonight&hide_border=true&locale=pt_BR)
 
 </div>
 
@@ -97,8 +97,8 @@ Estou em constante evolução técnica e com os olhos voltados para **oportunida
   ├─ ✅ C# + ASP.NET                        🎯 Open Source contrib.  │
   ├─ ✅ Docker + Kubernetes                 🎯 System Design mastery │
   ├─ ✅ Redis + Databases                   🎯 Cloud certifications  │
-  ├─ 🔄 Generative AI integration          🎯 Remote / EU / US opp. │
-  └─ 🔄 English fluency                                             │
+  ├─ 🔄 Generative AI integration          🎯 Remote / EU / US opp.  │
+  └─ 🔄 English fluency                                               │
 ```
 
 > 💡 **Meta principal:** Conquistar uma **vaga internacional** como Back-End Developer, contribuindo com times globais e construindo sistemas que escalam.
