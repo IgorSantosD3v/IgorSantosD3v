@@ -1,5 +1,11 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Igor%20Santos&fontSize=36&fontColor=000000&animation=fadeIn&fontAlignY=65&desc=Back-End%20Developer%20%7C%20Brazil%20%E2%86%92%20World&descAlignY=85&descColor=555555&descSize=14"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Igor%20Santos&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Back-End%20Developer%20%7C%20Brazil%20%E2%86%92%20World&descAlignY=85&descColor=8b949e&descSize=14"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dce9f5,50:b8d4ed,100:94bfe5&height=120&section=header&text=Igor%20Santos&fontSize=36&fontColor=1a1a2e&animation=fadeIn&fontAlignY=65&desc=Back-End%20Developer%20%7C%20Brazil%20%E2%86%92%20World&descAlignY=85&descColor=444444&descSize=14"/>
+  <img width="100%" alt="Header"/>
+</picture>
+
 </div>
 
 <div align="center">
@@ -60,25 +66,31 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IgorSantosD3v&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Igor's GitHub Stats" #gh-dark-mode-only/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=IgorSantosD3v&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f" alt="Igor's GitHub Stats" #gh-light-mode-only/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantosD3v&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" #gh-dark-mode-only/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantosD3v&layout=compact&langs_count=8&hide_border=true&theme=default&bg_color=ffffff&title_color=0969da&text_color=24292f" alt="Most Used Languages" #gh-light-mode-only/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=IgorSantosD3v&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=IgorSantosD3v&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f"/>
+  <img alt="Igor's GitHub Stats"/>
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorSantosD3v&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true" alt="Contribution Graph" #gh-dark-mode-only/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantosD3v&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantosD3v&layout=compact&langs_count=8&hide_border=true&theme=default&bg_color=ffffff&title_color=0969da&text_color=24292f"/>
+  <img alt="Most Used Languages"/>
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorSantosD3v&theme=minimal&hide_border=true&bg_color=ffffff&color=0969da&line=0969da&point=0969da&area=true" alt="Contribution Graph" #gh-light-mode-only/>
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=IgorSantosD3v&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=IgorSantosD3v&theme=minimal&hide_border=true&bg_color=ffffff&color=0969da&line=0969da&point=0969da&area=true"/>
+  <img width="100%" alt="Contribution Graph"/>
+</picture>
 
 </div>
 
@@ -143,5 +155,11 @@ O que ofereço: experiência prática em sistemas Python e .NET, capacidade de i
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:94bfe5,50:b8d4ed,100:dce9f5&height=100&section=footer"/>
+  <img width="100%" alt="Footer"/>
+</picture>
+
 </div>
