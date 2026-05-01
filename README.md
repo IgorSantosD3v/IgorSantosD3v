@@ -28,7 +28,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 </td>
 <td valign="top" width="35%" align="center">
 
-<img src="https://octodex.github.com/images/terracottocat_San-Tokki.png" width="200px" alt="Terracottocat"/>
+<img src="./assets/octocat.png" width="200px" alt="Terracottocat"/>
 
 </td>
 </tr>
@@ -39,10 +39,10 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 ### 🚀 Experience Highlights
 
 - **REST APIs & System Design:** Desenvolvimento de APIs estruturadas com autenticação, rotas protegidas, versionamento e boas práticas de arquitetura usando Python e FastAPI.
-- **Microsoft Stack:** Construção de sistemas back-end em C# com ASP.NET, focados em performance, estrutura limpa e integração com SQL Server.
-- **Containerization & Orchestration:** Aplicações containerizadas com Docker, orquestração local com Kubernetes e pipelines automatizados via GitHub Actions.
-- **Generative AI Integration:** Integração de modelos de linguagem em sistemas reais via Claude API, OpenAI e LangChain — além de automações inteligentes.
-- **Database Engineering:** Modelagem e otimização de banco de dados relacionais e não-relacionais: PostgreSQL, Redis e SQL Server em ambientes de produção.
+- **Microsoft Stack:** Construção de sistemas back-end em C# com ASP.NET e .NET, focados em performance, estrutura limpa e integração com SQL Server.
+- **Containerization & Orchestration:** Aplicações containerizadas com Docker, orquestração com Kubernetes e pipelines automatizados via GitHub Actions.
+- **Generative AI Integration:** Integração de modelos de linguagem em sistemas reais via Claude API, OpenAI e LangChain — automações inteligentes aplicadas a produtos reais.
+- **Database Engineering:** Modelagem e operação de bancos relacionais PostgreSQL e SQL Server em ambientes estruturados.
 
 ---
 
@@ -50,20 +50,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 
 <div align="center">
 
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,cs,dotnet,fastapi,docker,kubernetes,postgres,linux,git,github,vscode,visualstudio,postman)](https://skillicons.dev)
 
 </div>
 
@@ -74,7 +61,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 > Não escrevo código para resolver o problema de hoje. Escrevo para que o dev de amanhã entenda, expanda e não sofra.
 
 - Penso em arquitetura antes de digitar a primeira linha
-- Prefiro um sistema simples e correto a um complexo e frágil  
+- Prefiro um sistema simples e correto a um complexo e frágil
 - Reviso o que construo como se fosse outra pessoa lendo
 - Documento o raciocínio, não só o resultado
 
@@ -86,7 +73,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 2023  →  Python, lógica, OOP, estruturas de dados, fundamentos sólidos
 2024  →  APIs REST, banco de dados relacional, Git avançado
 2024  →  C#, ASP.NET, .NET — expansão além do Python
-2025  →  Docker, Kubernetes, Redis, CI/CD, GitHub Actions
+2025  →  Docker, Kubernetes, PostgreSQL, SQL Server, GitHub Actions
 2025  →  IA generativa: Claude API, OpenAI, LangChain
 2025  →  System Design, Clean Architecture, DDD
 2026  →  Cloud (AWS/Azure) + Oportunidade Internacional  ← agora
@@ -100,7 +87,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 |:---:|---|:---:|
 | ✅ | REST APIs & Back-End — Python, FastAPI, C#, ASP.NET | Operacional |
 | ✅ | Containers & Orquestração — Docker, Kubernetes | Operacional |
-| ✅ | Databases & Cache — PostgreSQL, Redis, SQL Server | Operacional |
+| ✅ | Databases — PostgreSQL, SQL Server | Operacional |
 | ✅ | Generative AI — Claude API, OpenAI, LangChain | Operacional |
 | 🔄 | System Design & Clean Architecture | Em progresso |
 | 🔄 | Cloud — AWS · Azure | Em progresso |
