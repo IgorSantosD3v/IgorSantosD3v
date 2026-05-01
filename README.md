@@ -28,7 +28,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 </td>
 <td valign="top" width="35%" align="center">
 
-<img src="./assets/octocat.png" width="200px" alt="Terracottocat"/>
+<img src="./assets/octocat.png.png" width="200px" alt="Terracottocat"/>
 
 </td>
 </tr>
