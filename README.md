@@ -15,17 +15,31 @@
 
 ---
 
-<div align="center">
+## 👤 Who I am
 
-**Back-End Developer** com experiência em Python, C#, ASP.NET, FastAPI e IA generativa.<br/>
-Construindo APIs escaláveis, sistemas distribuídos e automação —<br/>do design de banco de dados ao Docker e Kubernetes.<br/><br/>
-🇧🇷 Brazil &nbsp;**→**&nbsp; 🌍 The World
+Sou desenvolvedor back-end com trajetória construída na prática — estudando, quebrando coisas, consertando e entendendo o porquê de cada decisão técnica.
 
-</div>
+Comecei com Python, expandi para C# e .NET, passei a trabalhar com containers, orquestração e integração com IA generativa. Cada tecnologia que adicionei à minha stack veio de uma necessidade real, não de um checklist.
+
+Hoje atuo no desenvolvimento de APIs, sistemas distribuídos e automações. Estou em constante evolução e com o objetivo claro de atuar em times internacionais — onde código de qualidade é o que fala mais alto.
 
 ---
 
-## ⚙️ Languages
+## 🧠 How I work
+
+> Não escrevo código para resolver o problema de hoje. Escrevo para que o dev de amanhã entenda, expanda e não sofra.
+
+- Penso em arquitetura antes de digitar a primeira linha
+- Prefiro um sistema simples e correto a um complexo e frágil
+- Reviso o que construo como se fosse outra pessoa lendo
+- Documento o raciocínio, não só o resultado
+- Aprendo melhor quebrando coisas em ambiente controlado
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**
 
 <div align="center">
 
@@ -35,7 +49,7 @@ Construindo APIs escaláveis, sistemas distribuídos e automação —<br/>do de
 
 </div>
 
-## 🧩 Frameworks
+**Frameworks & Runtimes**
 
 <div align="center">
 
@@ -45,7 +59,7 @@ Construindo APIs escaláveis, sistemas distribuídos e automação —<br/>do de
 
 </div>
 
-## 🗄️ Databases & Cache
+**Databases & Cache**
 
 <div align="center">
 
@@ -56,7 +70,7 @@ Construindo APIs escaláveis, sistemas distribuídos e automação —<br/>do de
 
 </div>
 
-## 🐳 DevOps & Infra
+**DevOps & Infra**
 
 <div align="center">
 
@@ -68,7 +82,7 @@ Construindo APIs escaláveis, sistemas distribuídos e automação —<br/>do de
 
 </div>
 
-## 🤖 AI & Integrations
+**AI & Integrations**
 
 <div align="center">
 
@@ -81,29 +95,71 @@ Construindo APIs escaláveis, sistemas distribuídos e automação —<br/>do de
 
 ---
 
+## 🚧 What I'm building
+
+Os projetos neste perfil são reflexo direto da minha evolução técnica — não são exercícios de tutorial, são sistemas pensados do zero com decisões reais de arquitetura.
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🔧 **API REST** | API estruturada com autenticação, rotas protegidas e boas práticas de design | Python · FastAPI · PostgreSQL |
+| 🤖 **AI Integration** | Sistema de integração com modelos generativos via API | Python · Claude API · OpenAI |
+| 🐳 **Containerized App** | Aplicação back-end containerizada com orquestração local | Docker · Kubernetes · Redis |
+| 📦 **C# Back-End** | Sistema em .NET com ASP.NET, focado em performance e estrutura limpa | C# · ASP.NET · SQL Server |
+
+> Novos repositórios são adicionados conforme os projetos ganham maturidade suficiente para serem públicos.
+
+---
+
+## 📈 Trajectory
+
+```
+2023  →  Fundamentos sólidos: Python, lógica, OOP, estruturas de dados
+2024  →  APIs REST, banco de dados relacional, Git avançado
+2024  →  C#, ASP.NET, .NET — expansão além do Python
+2025  →  Docker, Kubernetes, Redis, CI/CD, GitHub Actions
+2025  →  Integração com IA generativa: Claude API, OpenAI, LangChain
+2025  →  System Design, Clean Architecture, DDD — aprofundamento em andamento
+2026  →  Cloud (AWS/Azure) + Oportunidade Internacional  ← aqui estamos
+```
+
+---
+
 ## 🗺️ Roadmap
 
-| | Área | Stack |
+| | Área | Status |
 |:---:|---|---|
-| ✅ | REST APIs & Back-End | Python · FastAPI · C# · ASP.NET |
-| ✅ | Containers & Orquestração | Docker · Kubernetes |
-| ✅ | Databases & Cache | PostgreSQL · Redis · SQL Server |
-| ✅ | Integração com IA Generativa | Claude API · OpenAI · LangChain |
-| 🔄 | System Design & Arquitetura | Microservices · Clean Arch · DDD |
-| 🔄 | Cloud | AWS · Azure |
-| 🎯 | Oportunidade Internacional | Remote · EU · US |
+| ✅ | REST APIs & Back-End — Python, FastAPI, C#, ASP.NET | Operacional |
+| ✅ | Containers & Orquestração — Docker, Kubernetes | Operacional |
+| ✅ | Databases & Cache — PostgreSQL, Redis, SQL Server | Operacional |
+| ✅ | Generative AI — Claude API, OpenAI, LangChain | Operacional |
+| 🔄 | System Design & Clean Architecture | Em progresso |
+| 🔄 | Cloud — AWS · Azure | Em progresso |
+| 🔄 | Inglês profissional | Em progresso |
+| 🎯 | Vaga internacional — Remote · EU · US | Objetivo ativo |
+
+---
+
+## 🌍 Open to opportunities
+
+Estou **ativamente disponível** para oportunidades remotas ou internacionais como desenvolvedor back-end.
+
+O que ofereço:
+- Experiência prática em sistemas Python e .NET
+- Capacidade de trabalhar com IA generativa em produção
+- Raciocínio voltado para arquitetura e qualidade de código
+- Comprometimento com evolução contínua e entrega real
+
+Se você faz parte de um time que valoriza código bem feito, vamos conversar.
+
+<div align="center">
+
+[![Fale comigo no LinkedIn](https://img.shields.io/badge/Fale_comigo_no_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-7b993b357/)
+
+</div>
 
 ---
 
 <div align="center">
-
-> *"Not looking for the easiest path. Looking for the right one."*
-
-<br/>
-
-[![Vamos conversar no LinkedIn](https://img.shields.io/badge/Vamos_conversar_no_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-7b993b357/)
-
-<br/>
 
 <sub>IgorSantosD3v · Brazil · Building. Shipping. Evolving.</sub>
 
