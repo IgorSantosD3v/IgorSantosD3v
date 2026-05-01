@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Igor%20Santos&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Back-End%20Developer%20%7C%20Brazil%20%E2%86%92%20World&descAlignY=85&descColor=8b949e&descSize=14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Igor%20Santos&fontSize=36&fontColor=000000&animation=fadeIn&fontAlignY=65&desc=Back-End%20Developer%20%7C%20Brazil%20%E2%86%92%20World&descAlignY=85&descColor=555555&descSize=14"/>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 <tr>
 <td valign="top" width="65%">
 
-### Hi, I'm Igor Santos 👋
+### Hi, I'm Igor Santos
 
 Back-End Developer com experiência em Python, C#, ASP.NET, FastAPI e IA generativa. Construindo APIs escaláveis, sistemas distribuídos e automação — do design de banco de dados ao Docker e Kubernetes.
 
