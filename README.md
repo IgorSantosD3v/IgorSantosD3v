@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:111111&height=120&section=header&text=%20Igor%20Santos&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Back-End%20Developer%20%7C%20Python%20%C2%B7%20C%23%20%C2%B7%20FastAPI%20%C2%B7%20AI%20%7C%20Brazil%20%E2%86%92%20World&descAlignY=85&descColor=888888&descSize=13"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=My%20name%20is%20Igor%20Santos.&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=Back-End%20Developer%20%7C%20Python%20%C2%B7%20C%23%20%C2%B7%20FastAPI%20%C2%B7%20AI%20%7C%20Brazil%20%E2%86%92%20World&descAlignY=80&descColor=8b949e&descSize=13"/>
 
 </div>
 
@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-7b993b357/)
 [![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorp.y/?hl=en)
 [![GitHub](https://img.shields.io/badge/IgorSantosD3v-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorSantosD3v)
-![Views](https://komarev.com/ghpvc/?username=IgorSantosD3v&style=for-the-badge&color=0a66c2&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=IgorSantosD3v&style=for-the-badge&color=0a66c2&label=VIEWS)
 
 </div>
 
@@ -17,9 +17,9 @@
 
 <div align="center">
 
-**Back-End Developer** with experience in Python, C#, ASP.NET, FastAPI and generative AI.<br/>
-Building scalable APIs, distributed systems and automation — from database design to Docker and Kubernetes.<br/><br/>
-`Brazil 🇧🇷` **→** `The World 🌍`
+**Back-End Developer** com experiência em Python, C#, ASP.NET, FastAPI e IA generativa.<br/>
+Construindo APIs escaláveis, sistemas distribuídos e automação —<br/>do design de banco de dados ao Docker e Kubernetes.<br/><br/>
+🇧🇷 Brazil &nbsp;**→**&nbsp; 🌍 The World
 
 </div>
 
@@ -81,39 +81,17 @@ Building scalable APIs, distributed systems and automation — from database des
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorSantosD3v&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantosD3v&layout=compact&langs_count=8&hide_border=true&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IgorSantosD3v&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)
-
-</div>
-
----
-
 ## 🗺️ Roadmap
 
-| | Area | Stack |
-|---|---|---|
+| | Área | Stack |
+|:---:|---|---|
 | ✅ | REST APIs & Back-End | Python · FastAPI · C# · ASP.NET |
-| ✅ | Containers & Orchestration | Docker · Kubernetes |
+| ✅ | Containers & Orquestração | Docker · Kubernetes |
 | ✅ | Databases & Cache | PostgreSQL · Redis · SQL Server |
-| ✅ | Generative AI Integration | Claude API · OpenAI · LangChain |
-| 🔄 | System Design & Architecture | Microservices · Clean Arch · DDD |
+| ✅ | Integração com IA Generativa | Claude API · OpenAI · LangChain |
+| 🔄 | System Design & Arquitetura | Microservices · Clean Arch · DDD |
 | 🔄 | Cloud | AWS · Azure |
-| 🎯 | International Opportunity | Remote · EU · US |
+| 🎯 | Oportunidade Internacional | Remote · EU · US |
 
 ---
 
@@ -123,7 +101,7 @@ Building scalable APIs, distributed systems and automation — from database des
 
 <br/>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-7b993b357/)
+[![Vamos conversar no LinkedIn](https://img.shields.io/badge/Vamos_conversar_no_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-7b993b357/)
 
 <br/>
 
@@ -133,6 +111,6 @@ Building scalable APIs, distributed systems and automation — from database des
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:0d0d0d&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
 
 </div>
