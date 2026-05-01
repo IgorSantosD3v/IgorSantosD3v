@@ -1,7 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=My%20name%20is%20Igor%20Santos.&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=Back-End%20Developer%20%7C%20Python%20%C2%B7%20C%23%20%C2%B7%20FastAPI%20%C2%B7%20AI%20%7C%20Brazil%20%E2%86%92%20World&descAlignY=80&descColor=8b949e&descSize=13"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Igor%20Santos&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Back-End%20Developer%20%7C%20Brazil%20%E2%86%92%20World&descAlignY=85&descColor=8b949e&descSize=14"/>
 </div>
 
 <div align="center">
@@ -15,119 +13,91 @@
 
 ---
 
-## 👤 Who I am
+<table>
+<tr>
+<td valign="top" width="65%">
 
-Sou desenvolvedor back-end com trajetória construída na prática — estudando, quebrando coisas, consertando e entendendo o porquê de cada decisão técnica.
+### Hi, I'm Igor Santos 👋
 
-Comecei com Python, expandi para C# e .NET, passei a trabalhar com containers, orquestração e integração com IA generativa. Cada tecnologia que adicionei à minha stack veio de uma necessidade real, não de um checklist.
+Back-End Developer com experiência em Python, C#, ASP.NET, FastAPI e IA generativa. Construindo APIs escaláveis, sistemas distribuídos e automação — do design de banco de dados ao Docker e Kubernetes.
 
-Hoje atuo no desenvolvimento de APIs, sistemas distribuídos e automações. Estou em constante evolução e com o objetivo claro de atuar em times internacionais — onde código de qualidade é o que fala mais alto.
+Comecei com Python, expandi para .NET, passei por containers e orquestração, e hoje integro modelos de linguagem em sistemas reais. Cada stack adicionada veio de uma necessidade concreta, não de um checklist.
+
+**Objetivo:** atuar em times internacionais como desenvolvedor back-end — remoto, EU ou US.
+
+</td>
+<td valign="top" width="35%" align="center">
+
+<img src="https://octodex.github.com/images/terracottocat_San-Tokki.png" width="200px" alt="Terracottocat"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 How I work
+### 🚀 Experience Highlights
+
+- **REST APIs & System Design:** Desenvolvimento de APIs estruturadas com autenticação, rotas protegidas, versionamento e boas práticas de arquitetura usando Python e FastAPI.
+- **Microsoft Stack:** Construção de sistemas back-end em C# com ASP.NET, focados em performance, estrutura limpa e integração com SQL Server.
+- **Containerization & Orchestration:** Aplicações containerizadas com Docker, orquestração local com Kubernetes e pipelines automatizados via GitHub Actions.
+- **Generative AI Integration:** Integração de modelos de linguagem em sistemas reais via Claude API, OpenAI e LangChain — além de automações inteligentes.
+- **Database Engineering:** Modelagem e otimização de banco de dados relacionais e não-relacionais: PostgreSQL, Redis e SQL Server em ambientes de produção.
+
+---
+
+### 🛠️ Technologies & Tools
+
+<div align="center">
+
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 🧠 How I Work
 
 > Não escrevo código para resolver o problema de hoje. Escrevo para que o dev de amanhã entenda, expanda e não sofra.
 
 - Penso em arquitetura antes de digitar a primeira linha
-- Prefiro um sistema simples e correto a um complexo e frágil
+- Prefiro um sistema simples e correto a um complexo e frágil  
 - Reviso o que construo como se fosse outra pessoa lendo
 - Documento o raciocínio, não só o resultado
-- Aprendo melhor quebrando coisas em ambiente controlado
 
 ---
 
-## ⚙️ Tech Stack
-
-**Languages**
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-**Frameworks & Runtimes**
-
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-</div>
-
-**Databases & Cache**
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-</div>
-
-**DevOps & Infra**
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
-**AI & Integrations**
-
-<div align="center">
-
-![Claude AI](https://img.shields.io/badge/Claude_AI-D4A017?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 🚧 What I'm building
-
-Os projetos neste perfil são reflexo direto da minha evolução técnica — não são exercícios de tutorial, são sistemas pensados do zero com decisões reais de arquitetura.
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🔧 **API REST** | API estruturada com autenticação, rotas protegidas e boas práticas de design | Python · FastAPI · PostgreSQL |
-| 🤖 **AI Integration** | Sistema de integração com modelos generativos via API | Python · Claude API · OpenAI |
-| 🐳 **Containerized App** | Aplicação back-end containerizada com orquestração local | Docker · Kubernetes · Redis |
-| 📦 **C# Back-End** | Sistema em .NET com ASP.NET, focado em performance e estrutura limpa | C# · ASP.NET · SQL Server |
-
-> Novos repositórios são adicionados conforme os projetos ganham maturidade suficiente para serem públicos.
-
----
-
-## 📈 Trajectory
+### 📈 Trajectory
 
 ```
-2023  →  Fundamentos sólidos: Python, lógica, OOP, estruturas de dados
+2023  →  Python, lógica, OOP, estruturas de dados, fundamentos sólidos
 2024  →  APIs REST, banco de dados relacional, Git avançado
 2024  →  C#, ASP.NET, .NET — expansão além do Python
 2025  →  Docker, Kubernetes, Redis, CI/CD, GitHub Actions
-2025  →  Integração com IA generativa: Claude API, OpenAI, LangChain
-2025  →  System Design, Clean Architecture, DDD — aprofundamento em andamento
-2026  →  Cloud (AWS/Azure) + Oportunidade Internacional  ← aqui estamos
+2025  →  IA generativa: Claude API, OpenAI, LangChain
+2025  →  System Design, Clean Architecture, DDD
+2026  →  Cloud (AWS/Azure) + Oportunidade Internacional  ← agora
 ```
 
 ---
 
-## 🗺️ Roadmap
+### 🗺️ Roadmap
 
 | | Área | Status |
-|:---:|---|---|
+|:---:|---|:---:|
 | ✅ | REST APIs & Back-End — Python, FastAPI, C#, ASP.NET | Operacional |
 | ✅ | Containers & Orquestração — Docker, Kubernetes | Operacional |
 | ✅ | Databases & Cache — PostgreSQL, Redis, SQL Server | Operacional |
@@ -135,21 +105,15 @@ Os projetos neste perfil são reflexo direto da minha evolução técnica — n�
 | 🔄 | System Design & Clean Architecture | Em progresso |
 | 🔄 | Cloud — AWS · Azure | Em progresso |
 | 🔄 | Inglês profissional | Em progresso |
-| 🎯 | Vaga internacional — Remote · EU · US | Objetivo ativo |
+| 🎯 | Vaga Internacional — Remote · EU · US | Objetivo ativo |
 
 ---
 
-## 🌍 Open to opportunities
+### 🌍 Open to Opportunities
 
 Estou **ativamente disponível** para oportunidades remotas ou internacionais como desenvolvedor back-end.
 
-O que ofereço:
-- Experiência prática em sistemas Python e .NET
-- Capacidade de trabalhar com IA generativa em produção
-- Raciocínio voltado para arquitetura e qualidade de código
-- Comprometimento com evolução contínua e entrega real
-
-Se você faz parte de um time que valoriza código bem feito, vamos conversar.
+O que ofereço: experiência prática em sistemas Python e .NET, capacidade de integrar IA generativa em produção, raciocínio voltado para arquitetura limpa e entrega real — com comprometimento total com qualidade e evolução contínua.
 
 <div align="center">
 
@@ -160,13 +124,9 @@ Se você faz parte de um time que valoriza código bem feito, vamos conversar.
 ---
 
 <div align="center">
-
 <sub>IgorSantosD3v · Brazil · Building. Shipping. Evolving.</sub>
-
 </div>
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
-
 </div>
