@@ -23,7 +23,7 @@
 <tr>
 <td valign="top" width="65%">
 
-### Hi, I'm Igor Santos 👋
+### Hi, I'm Igor Santos 
 
 Back-End Developer com experiência em Python, C#, ASP.NET, FastAPI e IA generativa. Construindo APIs escaláveis, sistemas distribuídos e automação — do design de banco de dados ao Docker e Kubernetes.
 
@@ -42,7 +42,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 
 ---
 
-### 🚀 Experience Highlights
+###  Experience Highlights
 
 - **REST APIs & System Design:** Desenvolvimento de APIs estruturadas com autenticação, rotas protegidas, versionamento e boas práticas de arquitetura usando Python e FastAPI.
 - **Microsoft Stack:** Construção de sistemas back-end em C# com ASP.NET e .NET, focados em performance, estrutura limpa e integração com SQL Server.
@@ -52,7 +52,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 
 ---
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <div align="center">
 
@@ -96,7 +96,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 
 ---
 
-### 🧠 How I Work
+###  How I Work
 
 > Não escrevo código para resolver o problema de hoje. Escrevo para que o dev de amanhã entenda, expanda e não sofra.
 
@@ -107,7 +107,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 
 ---
 
-### 📈 Trajectory
+###  Trajectory
 
 ```
 2023  →  Python, lógica, OOP, estruturas de dados, fundamentos sólidos
@@ -121,7 +121,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 
 ---
 
-### 🗺️ Roadmap
+###  Roadmap
 
 | | Área | Status |
 |:---:|---|:---:|
@@ -136,7 +136,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 
 ---
 
-### 🌍 Open to Opportunities
+###  Open to Opportunities
 
 Estou **ativamente disponível** para oportunidades remotas ou internacionais como desenvolvedor back-end.
 
