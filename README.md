@@ -29,7 +29,7 @@ Back-End Developer com experiência em Python, C#, ASP.NET, FastAPI e IA generat
 
 Comecei com Python, expandi para .NET, passei por containers e orquestração, e hoje integro modelos de linguagem em sistemas reais. Cada stack adicionada veio de uma necessidade concreta, não de um checklist.
 
-**Objetivo:** atuar em times internacionais como desenvolvedor back-end — remoto, EU ou US.
+**Objetivo:** atuar em times nacionais e internacionais como desenvolvedor back-end..
 
 </td>
 <td valign="top" width="35%" align="center">
@@ -116,7 +116,7 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 2025  →  Docker, Kubernetes, PostgreSQL, SQL Server, GitHub Actions
 2025  →  IA generativa: Claude API, OpenAI, LangChain
 2025  →  System Design, Clean Architecture, DDD
-2026  →  Cloud (AWS/Azure) + Oportunidade Internacional  ← agora
+2026  →  Cloud (AWS/Azure) + Oportunidade nacional ou internacional  ← agora
 ```
 
 ---
@@ -132,13 +132,11 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 | 🔄 | System Design & Clean Architecture | Em progresso |
 | 🔄 | Cloud — AWS · Azure | Em progresso |
 | 🔄 | Inglês profissional | Em progresso |
-| 🎯 | Vaga Internacional — Remote · EU · US | Objetivo ativo |
-
 ---
 
 ###  Open to Opportunities
 
-Estou **ativamente disponível** para oportunidades remotas ou internacionais como desenvolvedor back-end.
+Estou **ativamente disponível** para oportunidades nacionais ou internacionais como desenvolvedor back-end.
 
 O que ofereço: experiência prática em sistemas Python e .NET, capacidade de integrar IA generativa em produção, raciocínio voltado para arquitetura limpa e entrega real — com comprometimento total com qualidade e evolução contínua.
 
