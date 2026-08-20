@@ -58,6 +58,29 @@ Atuação como técnico, consultor e vendedor: montagem e manutenção de deskto
 
 ### Stack técnica
 
+<div align="center">
+
+**Back-end**
+
+[![Back-end Skills](https://skillicons.dev/icons?i=python,fastapi,cs,dotnet,nodejs,nestjs)](https://skillicons.dev)
+
+**Front-end**
+
+[![Front-end Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,vite)](https://skillicons.dev)
+
+**Dados e infraestrutura**
+
+[![Data & Infra Skills](https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,git,github,linux,kafka)](https://skillicons.dev)
+
+**IA e ferramentas**
+
+[![AI Tools](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+
+</div>
+
 | Área | Tecnologias |
 |---|---|
 | Back-end | Python, FastAPI, C#, ASP.NET, ASP.NET MVC, .NET, Node.js, NestJS |
