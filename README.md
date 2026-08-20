@@ -133,9 +133,21 @@ Atuação como técnico, consultor e vendedor: montagem e manutenção de deskto
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=IgorSantosD3v&hide_border=true&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=IgorSantosD3v&hide_border=true&theme=default&background=ffffff&stroke=0969da&ring=0969da&fire=0969da&currStreakLabel=0969da"/>
+  <img alt="GitHub Streak"/>
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=IgorSantosD3v&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=IgorSantosD3v&theme=minimal&hide_border=true&bg_color=ffffff&color=0969da&line=0969da&point=0969da&area=true"/>
   <img width="100%" alt="Contribution Graph"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=IgorSantosD3v&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=IgorSantosD3v&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+  <img alt="GitHub Trophies"/>
 </picture>
 
 </div>
