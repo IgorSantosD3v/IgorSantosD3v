@@ -6,7 +6,7 @@
   <img width="100%" alt="Header"/>
 </picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-7b993b357/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-devzao)
 [![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorp.y/?hl=en)
 [![GitHub](https://img.shields.io/badge/IgorSantosD3v-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorSantosD3v)
 ![Views](https://komarev.com/ghpvc/?username=IgorSantosD3v&style=for-the-badge&color=0a66c2&label=VIEWS)
@@ -19,13 +19,13 @@
 <tr>
 <td valign="top" width="65%">
 
-### Olá, eu sou o Igor 👋
+### Igor Santos — Back-End Developer
 
-Back-End Developer com experiência em **Python, C#, ASP.NET e FastAPI**, aplicando IA generativa a sistemas reais. Construo APIs escaláveis, sistemas distribuídos e automações — do design de banco de dados ao deploy com Docker e Kubernetes.
+Desenvolvedor back-end com experiência em Python (FastAPI) e C# (ASP.NET, ASP.NET MVC), atuando em APIs REST, arquitetura de software e integração de IA generativa em sistemas de produção. Experiência prática construída em ambiente corporativo (Wooba) e em operação própria de TI (Nexus Informática), combinando desenvolvimento, infraestrutura e atendimento direto a requisitos de negócio.
 
-Comecei com Python, expandi para .NET, passei por containers e orquestração, e hoje integro modelos de linguagem (Claude API, OpenAI, LangChain) em produtos em produção. Cada tecnologia que adicionei nasceu de um problema real, não de um checklist.
+Formação técnica pela EBAC (Desenvolvimento de API, Arquitetura de Software, CI/CD, Desenvolvimento Back-end e Front-end) e graduação em andamento em Engenharia de Software (FIAP). Estudo contínuo em System Design, Clean Architecture e cloud (AWS/Azure), com inglês em desenvolvimento para atuação em times internacionais.
 
-**Objetivo atual:** atuar como desenvolvedor back-end em times nacionais ou internacionais.
+**Posicionamento:** vaga de Desenvolvedor Back-end ou Full Stack, nível Júnior/Pleno, com abertura para oportunidades nacionais e internacionais.
 
 </td>
 <td valign="top" width="35%" align="center">
@@ -38,60 +38,62 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 
 ---
 
-### 🛠️ Stack
+### Experiência
 
-<div align="center">
+**Desenvolvedor Back-end — Wooba**
+C#, ASP.NET, ASP.NET MVC, APIs REST, JavaScript, JQuery. Desenvolvimento e manutenção de sistemas back-end em ambiente de produção.
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,cs,dotnet,fastapi,docker,kubernetes,postgres,linux,git,github,vscode,visualstudio,postman)](https://skillicons.dev)
+**Fundador e Consultor de TI — Nexus Informática** (desde 05/2024)
+Atuação como técnico, consultor e vendedor: montagem e manutenção de desktops, suporte em hardware e software, instalação de drivers e sistemas para empresas e escritórios. Responsável direto por gestão de clientes e operação do negócio.
 
-</div>
+---
+
+### Formação
+
+- **Engenharia de Software** — FIAP (em andamento)
+- **EBAC — Escola Britânica de Artes Criativas e Tecnologia** — Desenvolvimento de API, Arquitetura de Software, Integração e Entrega Contínua (CI/CD), Desenvolvimento Back-end, Desenvolvimento Front-end, IA Generativa para Desenvolvedores Web, Programação Orientada a Objetos, Desenvolvimento Orientado a Testes
+- **T.I do Zero ao Pro** — Introdução a Programação, Linux
+
+---
+
+### Stack técnica
 
 | Área | Tecnologias |
 |---|---|
-| **Back-end** | Python, FastAPI, C#, ASP.NET, .NET |
-| **Dados** | PostgreSQL, SQL Server |
-| **Infra & DevOps** | Docker, Kubernetes, GitHub Actions |
-| **IA Generativa** | Claude API, OpenAI, LangChain |
-| **Ferramentas** | Git, Linux, Postman, VS Code, Visual Studio |
+| Back-end | Python, FastAPI, C#, ASP.NET, ASP.NET MVC, .NET, Node.js, NestJS |
+| Front-end | React.js, TypeScript, JavaScript, HTML5, CSS, JQuery, Vite, Micro Frontends |
+| Dados | PostgreSQL, SQL Server, SQL, NoSQL |
+| Infraestrutura | Docker, Docker Compose, Kubernetes, GitHub Actions, Apache Kafka |
+| IA | Claude API, Claude Code, OpenAI, LangChain, LLMs locais |
+| Práticas | API REST, TDD, Clean Architecture, System Design, Git/GitHub, Postman |
 
 ---
 
-### 💡 Destaques
+### Projetos
 
-- **REST APIs & System Design** — APIs com autenticação, rotas protegidas, versionamento e boas práticas de arquitetura em Python/FastAPI.
-- **Microsoft Stack** — sistemas back-end em C# com ASP.NET e .NET, focados em performance e integração com SQL Server.
-- **Containers & Orquestração** — aplicações containerizadas com Docker, orquestradas com Kubernetes, com pipelines CI/CD via GitHub Actions.
-- **IA Generativa aplicada** — integração de LLMs (Claude, OpenAI, LangChain) em automações e produtos reais.
-- **Database Engineering** — modelagem e operação de bancos relacionais em ambientes estruturados.
+**API De Livros** — API REST em Python/FastAPI para catálogo de livros.
+
+**Pokemon API** — Consumo e estruturação de dados via API pública, com foco em modelagem e organização de endpoints.
+
+**ViajaJá — Portal de Viagens** — Portal em React.js e TypeScript, com arquitetura em Micro Frontends.
 
 ---
 
-### 📈 Trajetória
+### Trajetória
 
 ```text
-2023  Python, lógica, OOP, estruturas de dados
+2023  Python, lógica de programação, POO, estruturas de dados
 2024  APIs REST, banco de dados relacional, Git avançado
-2024  C#, ASP.NET, .NET
+2024  C#, ASP.NET, ASP.NET MVC — experiência em produção na Wooba
 2025  Docker, Kubernetes, PostgreSQL, SQL Server, GitHub Actions
 2025  IA generativa: Claude API, OpenAI, LangChain
 2025  System Design, Clean Architecture, DDD
-2026  Cloud (AWS/Azure) + inglês profissional  ← agora
+2026  Cloud (AWS/Azure) e inglês profissional — em andamento
 ```
 
 ---
 
-### 🎯 Como eu trabalho
-
-> Não escrevo código para resolver o problema de hoje. Escrevo para que o dev de amanhã entenda, expanda e não sofra.
-
-- Penso em arquitetura antes de digitar a primeira linha
-- Prefiro um sistema simples e correto a um complexo e frágil
-- Reviso o que construo como se fosse outra pessoa lendo
-- Documento o raciocínio, não só o resultado
-
----
-
-### 📊 GitHub Stats
+### GitHub
 
 <div align="center">
 
@@ -117,22 +119,20 @@ Comecei com Python, expandi para .NET, passei por containers e orquestração, e
 
 ---
 
-### 🚀 Aberto a oportunidades
+### Contato
 
-Estou **ativamente disponível** para oportunidades nacionais ou internacionais como desenvolvedor back-end.
-
-O que eu ofereço: experiência prática em sistemas Python e .NET, capacidade de integrar IA generativa em produção, raciocínio voltado para arquitetura limpa — com comprometimento total com qualidade e evolução contínua.
+Disponível para oportunidades nacionais e internacionais como desenvolvedor back-end. Contato via LinkedIn para conversas sobre vagas ou colaborações técnicas.
 
 <div align="center">
 
-[![Fale comigo no LinkedIn](https://img.shields.io/badge/Fale_comigo_no_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-7b993b357/)
+[![LinkedIn](https://img.shields.io/badge/Contato_via_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-devzao)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>IgorSantosD3v · Brazil · Building. Shipping. Evolving.</sub>
+<sub>IgorSantosD3v · Brazil</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
