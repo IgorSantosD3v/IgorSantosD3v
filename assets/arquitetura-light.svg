@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Arquitetura do AgendaFlow com fluxo de atendimento e fluxo financeiro">
+<style>
+.lbl{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace;font-size:11px;letter-spacing:1.5px;fill:#57606a}
+.nm{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:15px;font-weight:700;fill:#1f2328}
+.sb{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace;font-size:11px;fill:#57606a}
+.flow{stroke-dasharray:3 7;animation:dash 1s linear infinite}
+.flowr{stroke-dasharray:3 7;animation:dashr 1s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-10}}
+@keyframes dashr{to{stroke-dashoffset:10}}
+.node{animation:glow 3s ease-in-out infinite}
+@keyframes glow{0%,100%{stroke-opacity:.55}50%{stroke-opacity:1}}
+.lg{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:12px;fill:#57606a}
+</style>
+<rect x="0.5" y="0.5" width="899" height="329" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text x="20" y="52" class="lbl">FLUXO DE ATENDIMENTO</text>
+<text x="20" y="197" class="lbl">FLUXO FINANCEIRO E ADMIN</text>
+<line class="flow" x1="180.0" y1="90.0" x2="250.0" y2="90.0" stroke="#0969da" stroke-width="1.5"/>
+<line class="flowr" x1="180.0" y1="104.0" x2="250.0" y2="104.0" stroke="#1a7f37" stroke-width="1.5"/>
+<path d="M244.0,86.0 L250.0,90.0 L244.0,94.0" fill="none" stroke="#0969da" stroke-width="1.5"/>
+<path d="M186.0,100.0 L180.0,104.0 L186.0,108.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/>
+<circle r="4.5" fill="#0969da" opacity="0"><animate attributeName="opacity" dur="6.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.000;0.140"/><animateMotion dur="6.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.000;0.140;1" path="M180.0,90.0 L250.0,90.0"/></circle>
+<circle r="4.5" fill="#1a7f37" opacity="0"><animate attributeName="opacity" dur="6.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.840;0.980"/><animateMotion dur="6.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.840;0.980;1" path="M250.0,104.0 L180.0,104.0"/></circle>
+<line class="flow" x1="410.0" y1="90.0" x2="480.0" y2="90.0" stroke="#0969da" stroke-width="1.5"/>
+<line class="flowr" x1="410.0" y1="104.0" x2="480.0" y2="104.0" stroke="#1a7f37" stroke-width="1.5"/>
+<path d="M474.0,86.0 L480.0,90.0 L474.0,94.0" fill="none" stroke="#0969da" stroke-width="1.5"/>
+<path d="M416.0,100.0 L410.0,104.0 L416.0,108.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/>
+<circle r="4.5" fill="#0969da" opacity="0"><animate attributeName="opacity" dur="6.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.170;0.310"/><animateMotion dur="6.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.170;0.310;1" path="M410.0,90.0 L480.0,90.0"/></circle>
+<circle r="4.5" fill="#1a7f37" opacity="0"><animate attributeName="opacity" dur="6.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.670;0.810"/><animateMotion dur="6.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.670;0.810;1" path="M480.0,104.0 L410.0,104.0"/></circle>
+<line class="flow" x1="640.0" y1="90.0" x2="710.0" y2="90.0" stroke="#0969da" stroke-width="1.5"/>
+<line class="flowr" x1="640.0" y1="104.0" x2="710.0" y2="104.0" stroke="#1a7f37" stroke-width="1.5"/>
+<path d="M704.0,86.0 L710.0,90.0 L704.0,94.0" fill="none" stroke="#0969da" stroke-width="1.5"/>
+<path d="M646.0,100.0 L640.0,104.0 L646.0,108.0" fill="none" stroke="#1a7f37" stroke-width="1.5"/>
+<circle r="4.5" fill="#0969da" opacity="0"><animate attributeName="opacity" dur="6.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.340;0.480"/><animateMotion dur="6.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.340;0.480;1" path="M640.0,90.0 L710.0,90.0"/></circle>
+<circle r="4.5" fill="#1a7f37" opacity="0"><animate attributeName="opacity" dur="6.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.500;0.640"/><animateMotion dur="6.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.500;0.640;1" path="M710.0,104.0 L640.0,104.0"/></circle>
+<line class="flow" x1="180.0" y1="242.0" x2="250.0" y2="242.0" stroke="#8250df" stroke-width="1.5"/>
+<path d="M244.0,238.0 L250.0,242.0 L244.0,246.0" fill="none" stroke="#8250df" stroke-width="1.5"/>
+<circle r="4.5" fill="#8250df" opacity="0"><animate attributeName="opacity" dur="6.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.050;0.190"/><animateMotion dur="6.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.050;0.190;1" path="M180.0,242.0 L250.0,242.0"/></circle>
+<line class="flow" x1="410.0" y1="242.0" x2="480.0" y2="242.0" stroke="#8250df" stroke-width="1.5"/>
+<path d="M474.0,238.0 L480.0,242.0 L474.0,246.0" fill="none" stroke="#8250df" stroke-width="1.5"/>
+<circle r="4.5" fill="#8250df" opacity="0"><animate attributeName="opacity" dur="6.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.240;0.380"/><animateMotion dur="6.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.240;0.380;1" path="M410.0,242.0 L480.0,242.0"/></circle>
+<line class="flow" x1="640.0" y1="242.0" x2="710.0" y2="242.0" stroke="#8250df" stroke-width="1.5"/>
+<path d="M704.0,238.0 L710.0,242.0 L704.0,246.0" fill="none" stroke="#8250df" stroke-width="1.5"/>
+<circle r="4.5" fill="#8250df" opacity="0"><animate attributeName="opacity" dur="6.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.430;0.570"/><animateMotion dur="6.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.430;0.570;1" path="M640.0,242.0 L710.0,242.0"/></circle>
+<line class="flowr" x1="790" y1="124" x2="790" y2="215" stroke="#9a6700" stroke-width="1.5"/>
+<path d="M786,130 L790,124 L794,130" fill="none" stroke="#9a6700" stroke-width="1.5"/>
+<text x="800" y="173.5" class="sb">webhook</text>
+<circle r="4.5" fill="#9a6700" opacity="0"><animate attributeName="opacity" dur="6.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.620;0.800"/><animateMotion dur="6.0s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.620;0.800;1" path="M790,215 L790,124"/></circle>
+<rect class="node" style="animation-delay:0.0s" x="20.0" y="70" width="160" height="54" rx="10" fill="#f6f8fa" stroke="#0969da" stroke-width="1.5"/><text x="100" y="93" text-anchor="middle" class="nm">WhatsApp</text><text x="100" y="111" text-anchor="middle" class="sb">cliente final</text>
+<rect class="node" style="animation-delay:0.4s" x="250.0" y="70" width="160" height="54" rx="10" fill="#f6f8fa" stroke="#0969da" stroke-width="1.5"/><text x="330" y="93" text-anchor="middle" class="nm">Webhook</text><text x="330" y="111" text-anchor="middle" class="sb">FastAPI</text>
+<rect class="node" style="animation-delay:0.8s" x="480.0" y="70" width="160" height="54" rx="10" fill="#f6f8fa" stroke="#0969da" stroke-width="1.5"/><text x="560" y="93" text-anchor="middle" class="nm">Claude</text><text x="560" y="111" text-anchor="middle" class="sb">tool-use loop</text>
+<rect class="node" style="animation-delay:1.2000000000000002s" x="710.0" y="70" width="160" height="54" rx="10" fill="#f6f8fa" stroke="#1a7f37" stroke-width="1.5"/><text x="790" y="93" text-anchor="middle" class="nm">PostgreSQL</text><text x="790" y="111" text-anchor="middle" class="sb">agenda · empresas</text>
+<rect class="node" style="animation-delay:1.6s" x="20.0" y="215" width="160" height="54" rx="10" fill="#f6f8fa" stroke="#8250df" stroke-width="1.5"/><text x="100" y="238" text-anchor="middle" class="nm">Painel</text><text x="100" y="256" text-anchor="middle" class="sb">Next.js 16</text>
+<rect class="node" style="animation-delay:2.0s" x="250.0" y="215" width="160" height="54" rx="10" fill="#f6f8fa" stroke="#8250df" stroke-width="1.5"/><text x="330" y="238" text-anchor="middle" class="nm">Admin API</text><text x="330" y="256" text-anchor="middle" class="sb">FastAPI · JWT</text>
+<rect class="node" style="animation-delay:2.4000000000000004s" x="480.0" y="215" width="160" height="54" rx="10" fill="#f6f8fa" stroke="#8250df" stroke-width="1.5"/><text x="560" y="238" text-anchor="middle" class="nm">Workers</text><text x="560" y="256" text-anchor="middle" class="sb">cobrança · lembretes</text>
+<rect class="node" style="animation-delay:2.8000000000000003s" x="710.0" y="215" width="160" height="54" rx="10" fill="#f6f8fa" stroke="#9a6700" stroke-width="1.5"/><text x="790" y="238" text-anchor="middle" class="nm">PIX</text><text x="790" y="256" text-anchor="middle" class="sb">Asaas · Mercado Pago</text>
+<circle cx="25" cy="304" r="4.5" fill="#0969da"/><text x="35" y="308" class="lg">requisição</text>
+<circle cx="140" cy="304" r="4.5" fill="#1a7f37"/><text x="150" y="308" class="lg">resposta</text>
+<circle cx="241" cy="304" r="4.5" fill="#8250df"/><text x="251" y="308" class="lg">operação</text>
+<circle cx="342" cy="304" r="4.5" fill="#9a6700"/><text x="352" y="308" class="lg">pagamento</text>
+</svg>

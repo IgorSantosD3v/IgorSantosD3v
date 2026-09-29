@@ -16,6 +16,14 @@
 [![GitHub](https://img.shields.io/badge/IgorSantosD3v-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorSantosD3v)
 ![Views](https://komarev.com/ghpvc/?username=IgorSantosD3v&style=for-the-badge&color=0a66c2&label=VIEWS)
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg"/>
+  <img width="100%" src="./assets/terminal-dark.svg" alt="Terminal animado: Igor Santos, Back-end Developer, Founder @ Flow"/>
+</picture>
+
 </div>
 
 ---
@@ -63,11 +71,11 @@ Curso Engenharia de Software na FIAP e Desenvolvimento Back-end Python na EBAC, 
 
 <div align="center">
 
-| Produto | O que é | Status |
-|---|---|---|
-| **AgendaFlow** | SaaS de agendamento via WhatsApp com atendimento por IA (Claude) | Em produção |
-| **AgendaFlow Admin** | Painel administrativo com dashboard executivo, operacional e financeiro | Em produção |
-| **FlowPay** | App Android para clientes acompanharem e pagarem suas mensalidades | Em publicação na Play Store |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/produtos-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/produtos-light.svg"/>
+  <img width="100%" src="./assets/produtos-dark.svg" alt="AgendaFlow e AgendaFlow Admin em produção, FlowPay em revisão na Play Store"/>
+</picture>
 
 </div>
 
@@ -96,6 +104,14 @@ C#, ASP.NET MVC, APIs REST, JavaScript e jQuery em uma plataforma de reservas de
 
 Empresas como barbearias, salões e clínicas contratam o AgendaFlow e seus clientes passam a agendar, remarcar e cancelar horários conversando no WhatsApp da própria empresa. O atendimento é feito pelo Claude com tool-use, consultando a agenda real no banco.
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/arquitetura-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/arquitetura-light.svg"/>
+  <img width="100%" src="./assets/arquitetura-dark.svg" alt="Arquitetura do AgendaFlow: WhatsApp, Webhook FastAPI, Claude e PostgreSQL no atendimento; Painel, Admin API, Workers e PIX no fluxo financeiro"/>
+</picture>
+</div>
+
 - **IA com ferramentas reais:** loop de tool-use com o Claude para listar, criar, cancelar e reagendar horários, com controle de histórico que nunca separa pares `tool_use`/`tool_result`
 - **Webhook resiliente:** deduplicação por `message_id`, expiração de conversa e resposta sempre 200 para evitar reenvio em cascata da Meta
 - **Modelo multiunidade:** empresas, unidades com número próprio de WhatsApp, profissionais e serviços, com trava de conflito por profissional usando índices parciais
@@ -104,7 +120,7 @@ Empresas como barbearias, salões e clínicas contratam o AgendaFlow e seus clie
 - **Operação:** workers agendados para cobrança e lembretes, score de risco, central de pendências e painel de saúde operacional por empresa
 - **Onboarding via Meta:** Cadastro Incorporado (Embedded Signup) para conectar o WhatsApp Business do cliente direto pelo painel
 
-Repositórios: [agendaflow-backend](https://github.com/IgorSantosD3v/agendaflow-backend) · [AgendaFlow-Admin](https://github.com/IgorSantosD3v/AgendaFlow-Admin)
+🔒 Código privado (produto comercial). Demonstração técnica disponível em entrevista.
 
 #### AgendaFlow Admin · Painel administrativo
 
@@ -114,6 +130,8 @@ Repositórios: [agendaflow-backend](https://github.com/IgorSantosD3v/agendaflow-
 
 Painel em Next.js (App Router) para gerenciar empresas, unidades, profissionais, serviços, formas de pagamento e templates de mensagem. O dashboard reúne visão executiva, operacional e financeira, incluindo um motor de preço sugerido calculado a partir do custo real de IA e infraestrutura com margem configurável.
 
+🔒 Código privado (produto comercial). Demonstração técnica disponível em entrevista.
+
 #### FlowPay · App de cobrança
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -122,7 +140,7 @@ Painel em Next.js (App Router) para gerenciar empresas, unidades, profissionais,
 
 App Android da Flow para que clientes pagantes acompanhem e paguem suas faturas de qualquer produto Flow. Login por código via WhatsApp, notificações push, atualização em tempo real, token em armazenamento seguro (Keystore) e tratamento completo de perda de conexão. Foi meu primeiro projeto mobile, levado do zero até a publicação.
 
-Repositório: [FlowPay](https://github.com/IgorSantosD3v/FlowPay)
+🔒 Código privado (produto comercial). Demonstração técnica disponível em entrevista.
 
 #### API de Livros · Back-end com observabilidade e CI/CD
 
@@ -254,6 +272,14 @@ Estudar faz parte da rotina, não é uma etapa concluída. Os próximos alvos s�
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=IgorSantosD3v&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=IgorSantosD3v&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8"/>
   <img alt="GitHub Trophies"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorSantosD3v/IgorSantosD3v/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorSantosD3v/IgorSantosD3v/output/github-snake.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/IgorSantosD3v/IgorSantosD3v/output/github-snake-dark.svg" alt="Cobrinha comendo o gráfico de contribuições"/>
 </picture>
 
 </div>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Produtos da Flow: AgendaFlow, AgendaFlow Admin e FlowPay">
+<style>
+.card{opacity:0;animation:rise .8s cubic-bezier(.2,.8,.2,1) forwards}
+.trace{stroke-dasharray:952;stroke-dashoffset:952;animation:draw 1.6s ease-out forwards}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 1.8s ease-out infinite}
+.name{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:21px;font-weight:700;fill:#1f2328}
+.desc{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;fill:#57606a}
+.tag{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace;font-size:12px;fill:#0969da}
+.pill{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:12px;font-weight:600}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3.2);opacity:0}}
+@keyframes shine{0%{transform:translateX(-340px)}60%,100%{transform:translateX(340px)}}
+.shine{animation:shine 5s ease-in-out infinite}
+</style>
+<defs><linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#0969da" stop-opacity="0"/><stop offset=".5" stop-color="#0969da" stop-opacity=".10"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/></linearGradient></defs>
+<g class="card" style="animation-delay:0.0s">
+<clipPath id="c0"><rect x="5" y="5" width="286" height="190" rx="12"/></clipPath>
+<rect x="5" y="5" width="286" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g clip-path="url(#c0)"><rect class="shine" style="animation-delay:1.5s" x="5" y="5" width="286" height="190" fill="url(#sh)"/></g>
+<rect class="trace" style="animation-delay:0.0s" x="5" y="5" width="286" height="190" rx="12" fill="none" stroke="#1a7f37" stroke-width="1.5" stroke-opacity=".8"/>
+<rect x="25" y="25" width="113" height="24" rx="12" fill="#1a7f37" fill-opacity=".14"/>
+<circle class="pulse" cx="39" cy="37" r="4" fill="#1a7f37"/>
+<circle cx="39" cy="37" r="4" fill="#1a7f37"/>
+<text x="51" y="41.5" class="pill" fill="#1a7f37">Em produção</text>
+<text x="25" y="88" class="name">AgendaFlow</text>
+<text x="25" y="116" class="desc">Agendamento via WhatsApp com</text>
+<text x="25" y="136" class="desc">atendimento por IA e PIX</text>
+<line x1="25" y1="155" x2="271" y2="155" stroke="#d0d7de"/>
+<text x="25" y="178" class="tag">FastAPI · Claude · PostgreSQL</text>
+</g>
+<g class="card" style="animation-delay:0.25s">
+<clipPath id="c1"><rect x="306" y="5" width="286" height="190" rx="12"/></clipPath>
+<rect x="306" y="5" width="286" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g clip-path="url(#c1)"><rect class="shine" style="animation-delay:2.1s" x="306" y="5" width="286" height="190" fill="url(#sh)"/></g>
+<rect class="trace" style="animation-delay:0.25s" x="306" y="5" width="286" height="190" rx="12" fill="none" stroke="#1a7f37" stroke-width="1.5" stroke-opacity=".8"/>
+<rect x="326" y="25" width="113" height="24" rx="12" fill="#1a7f37" fill-opacity=".14"/>
+<circle class="pulse" cx="340" cy="37" r="4" fill="#1a7f37"/>
+<circle cx="340" cy="37" r="4" fill="#1a7f37"/>
+<text x="352" y="41.5" class="pill" fill="#1a7f37">Em produção</text>
+<text x="326" y="88" class="name">AgendaFlow Admin</text>
+<text x="326" y="116" class="desc">Painel executivo, operacional</text>
+<text x="326" y="136" class="desc">e financeiro da operação</text>
+<line x1="326" y1="155" x2="572" y2="155" stroke="#d0d7de"/>
+<text x="326" y="178" class="tag">Next.js · TypeScript · Tailwind</text>
+</g>
+<g class="card" style="animation-delay:0.5s">
+<clipPath id="c2"><rect x="607" y="5" width="286" height="190" rx="12"/></clipPath>
+<rect x="607" y="5" width="286" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g clip-path="url(#c2)"><rect class="shine" style="animation-delay:2.7s" x="607" y="5" width="286" height="190" fill="url(#sh)"/></g>
+<rect class="trace" style="animation-delay:0.5s" x="607" y="5" width="286" height="190" rx="12" fill="none" stroke="#9a6700" stroke-width="1.5" stroke-opacity=".8"/>
+<rect x="627" y="25" width="106" height="24" rx="12" fill="#9a6700" fill-opacity=".14"/>
+<circle class="pulse" cx="641" cy="37" r="4" fill="#9a6700"/>
+<circle cx="641" cy="37" r="4" fill="#9a6700"/>
+<text x="653" y="41.5" class="pill" fill="#9a6700">Play Store</text>
+<text x="627" y="88" class="name">FlowPay</text>
+<text x="627" y="116" class="desc">App de faturas e pagamentos</text>
+<text x="627" y="136" class="desc">para clientes da Flow</text>
+<line x1="627" y1="155" x2="873" y2="155" stroke="#d0d7de"/>
+<text x="627" y="178" class="tag">Flutter · Dart · Firebase</text>
+</g>
+</svg>
