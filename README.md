@@ -283,10 +283,6 @@ Aberto a oportunidades nacionais e internacionais como desenvolvedor Back-end ou
 <div align="center">
 <sub>IgorSantosD3v · Anápolis, GO · Brazil</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:94bfe5,50:b8d4ed,100:dce9f5&height=100&section=footer"/>
-  <img width="100%" alt="Footer"/>
-</picture>
+<img width="100%" src="./assets/footer-bandeiras.svg" alt="Bandeiras do Brasil e do México ondulando"/>
 
 </div>
