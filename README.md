@@ -1,20 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Igor%20Santos&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Back-End%20Developer%20%7C%20SaaS%20Builder%20%7C%20Brazil%20%E2%86%92%20World&descAlignY=85&descColor=8b949e&descSize=14"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dce9f5,50:b8d4ed,100:94bfe5&height=120&section=header&text=Igor%20Santos&fontSize=36&fontColor=1a1a2e&animation=fadeIn&fontAlignY=65&desc=Back-End%20Developer%20%7C%20SaaS%20Builder%20%7C%20Brazil%20%E2%86%92%20World&descAlignY=85&descColor=444444&descSize=14"/>
-  <img width="100%" alt="Header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg"/>
+  <img width="100%" src="./assets/header-dark.svg" alt="Igor Santos, Back-end Developer e Founder da Flow"/>
 </picture>
-
-<a href="https://github.com/IgorSantosD3v">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Python+%7C+FastAPI+%7C+C%23+%7C+ASP.NET;SaaS+em+produ%C3%A7%C3%A3o+com+IA+generativa+e+WhatsApp;Pagamentos%2C+webhooks+e+integra%C3%A7%C3%B5es+reais;Aberto+a+vagas+Back-end+%2F+Full+Stack" alt="Typing SVG"/>
-</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-devzao)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Igorsantosdevp@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorp.y/?hl=en)
 [![GitHub](https://img.shields.io/badge/IgorSantosD3v-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorSantosD3v)
-![Views](https://komarev.com/ghpvc/?username=IgorSantosD3v&style=for-the-badge&color=0a66c2&label=VIEWS)
 
 <br/><br/>
 
