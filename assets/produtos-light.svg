@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Produtos da Flow: AgendaFlow, AgendaFlow Admin e FlowPay">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Produtos da Flow: AgendaFlow (Painel de Controle, Painel Recepção, Bot WhatsApp) e FlowPay">
 <style>
 .card{opacity:0;animation:rise .8s cubic-bezier(.2,.8,.2,1) forwards}
-.trace{stroke-dasharray:952;stroke-dashoffset:952;animation:draw 1.6s ease-out forwards}
+.trace{stroke-dasharray:804;stroke-dashoffset:804;animation:draw 1.6s ease-out forwards}
 .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 1.8s ease-out infinite}
-.name{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:21px;font-weight:700;fill:#1f2328}
-.desc{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;fill:#57606a}
+.kick{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace;font-size:10.5px;letter-spacing:1.5px;fill:#57606a}
+.name{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:18px;font-weight:700;fill:#1f2328}
+.desc{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;fill:#57606a}
 .tag{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace;font-size:12px;fill:#0969da}
 .pill{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:12px;font-weight:600}
 @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
@@ -15,48 +16,67 @@
 </style>
 <defs><linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#0969da" stop-opacity="0"/><stop offset=".5" stop-color="#0969da" stop-opacity=".10"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/></linearGradient></defs>
 <g class="card" style="animation-delay:0.0s">
-<clipPath id="c0"><rect x="5" y="5" width="286" height="190" rx="12"/></clipPath>
-<rect x="5" y="5" width="286" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-<g clip-path="url(#c0)"><rect class="shine" style="animation-delay:1.5s" x="5" y="5" width="286" height="190" fill="url(#sh)"/></g>
-<rect class="trace" style="animation-delay:0.0s" x="5" y="5" width="286" height="190" rx="12" fill="none" stroke="#1a7f37" stroke-width="1.5" stroke-opacity=".8"/>
-<rect x="25" y="25" width="113" height="24" rx="12" fill="#1a7f37" fill-opacity=".14"/>
-<circle class="pulse" cx="39" cy="37" r="4" fill="#1a7f37"/>
-<circle cx="39" cy="37" r="4" fill="#1a7f37"/>
-<text x="51" y="41.5" class="pill" fill="#1a7f37">Em produção</text>
-<text x="25" y="88" class="name">AgendaFlow</text>
-<text x="25" y="116" class="desc">Agendamento via WhatsApp com</text>
-<text x="25" y="136" class="desc">atendimento por IA e PIX</text>
-<line x1="25" y1="155" x2="271" y2="155" stroke="#d0d7de"/>
-<text x="25" y="178" class="tag">FastAPI · Claude · PostgreSQL</text>
+<clipPath id="c0"><rect x="3" y="5" width="212" height="190" rx="12"/></clipPath>
+<rect x="3" y="5" width="212" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g clip-path="url(#c0)"><rect class="shine" style="animation-delay:1.5s" x="3" y="5" width="212" height="190" fill="url(#sh)"/></g>
+<rect class="trace" style="animation-delay:0.0s" x="3" y="5" width="212" height="190" rx="12" fill="none" stroke="#1a7f37" stroke-width="1.5" stroke-opacity=".8"/>
+<rect x="23" y="25" width="113" height="24" rx="12" fill="#1a7f37" fill-opacity=".14"/>
+<circle class="pulse" cx="37" cy="37" r="4" fill="#1a7f37"/>
+<circle cx="37" cy="37" r="4" fill="#1a7f37"/>
+<text x="49" y="41.5" class="pill" fill="#1a7f37">Em produção</text>
+<text x="23" y="74" class="kick">AGENDAFLOW</text>
+<text x="23" y="96" class="name">Painel de Controle</text>
+<text x="23" y="121" class="desc">CRM completo: equipe,</text>
+<text x="23" y="139" class="desc">serviços, clientes e agenda</text>
+<line x1="23" y1="155" x2="195" y2="155" stroke="#d0d7de"/>
+<text x="23" y="178" class="tag">CRM · Gestão</text>
 </g>
 <g class="card" style="animation-delay:0.25s">
-<clipPath id="c1"><rect x="306" y="5" width="286" height="190" rx="12"/></clipPath>
-<rect x="306" y="5" width="286" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-<g clip-path="url(#c1)"><rect class="shine" style="animation-delay:2.1s" x="306" y="5" width="286" height="190" fill="url(#sh)"/></g>
-<rect class="trace" style="animation-delay:0.25s" x="306" y="5" width="286" height="190" rx="12" fill="none" stroke="#1a7f37" stroke-width="1.5" stroke-opacity=".8"/>
-<rect x="326" y="25" width="113" height="24" rx="12" fill="#1a7f37" fill-opacity=".14"/>
-<circle class="pulse" cx="340" cy="37" r="4" fill="#1a7f37"/>
-<circle cx="340" cy="37" r="4" fill="#1a7f37"/>
-<text x="352" y="41.5" class="pill" fill="#1a7f37">Em produção</text>
-<text x="326" y="88" class="name">AgendaFlow Admin</text>
-<text x="326" y="116" class="desc">Painel executivo, operacional</text>
-<text x="326" y="136" class="desc">e financeiro da operação</text>
-<line x1="326" y1="155" x2="572" y2="155" stroke="#d0d7de"/>
-<text x="326" y="178" class="tag">Next.js · TypeScript · Tailwind</text>
+<clipPath id="c1"><rect x="230" y="5" width="212" height="190" rx="12"/></clipPath>
+<rect x="230" y="5" width="212" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g clip-path="url(#c1)"><rect class="shine" style="animation-delay:2.1s" x="230" y="5" width="212" height="190" fill="url(#sh)"/></g>
+<rect class="trace" style="animation-delay:0.25s" x="230" y="5" width="212" height="190" rx="12" fill="none" stroke="#1a7f37" stroke-width="1.5" stroke-opacity=".8"/>
+<rect x="250" y="25" width="113" height="24" rx="12" fill="#1a7f37" fill-opacity=".14"/>
+<circle class="pulse" cx="264" cy="37" r="4" fill="#1a7f37"/>
+<circle cx="264" cy="37" r="4" fill="#1a7f37"/>
+<text x="276" y="41.5" class="pill" fill="#1a7f37">Em produção</text>
+<text x="250" y="74" class="kick">AGENDAFLOW</text>
+<text x="250" y="96" class="name">Painel Recepção</text>
+<text x="250" y="121" class="desc">Agenda do dia e</text>
+<text x="250" y="139" class="desc">atendimentos do balcão</text>
+<line x1="250" y1="155" x2="422" y2="155" stroke="#d0d7de"/>
+<text x="250" y="178" class="tag">Tempo real</text>
 </g>
 <g class="card" style="animation-delay:0.5s">
-<clipPath id="c2"><rect x="607" y="5" width="286" height="190" rx="12"/></clipPath>
-<rect x="607" y="5" width="286" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-<g clip-path="url(#c2)"><rect class="shine" style="animation-delay:2.7s" x="607" y="5" width="286" height="190" fill="url(#sh)"/></g>
-<rect class="trace" style="animation-delay:0.5s" x="607" y="5" width="286" height="190" rx="12" fill="none" stroke="#9a6700" stroke-width="1.5" stroke-opacity=".8"/>
-<rect x="627" y="25" width="106" height="24" rx="12" fill="#9a6700" fill-opacity=".14"/>
-<circle class="pulse" cx="641" cy="37" r="4" fill="#9a6700"/>
-<circle cx="641" cy="37" r="4" fill="#9a6700"/>
-<text x="653" y="41.5" class="pill" fill="#9a6700">Play Store</text>
-<text x="627" y="88" class="name">FlowPay</text>
-<text x="627" y="116" class="desc">App de faturas e pagamentos</text>
-<text x="627" y="136" class="desc">para clientes da Flow</text>
-<line x1="627" y1="155" x2="873" y2="155" stroke="#d0d7de"/>
-<text x="627" y="178" class="tag">Flutter · Dart · Firebase</text>
+<clipPath id="c2"><rect x="457" y="5" width="212" height="190" rx="12"/></clipPath>
+<rect x="457" y="5" width="212" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g clip-path="url(#c2)"><rect class="shine" style="animation-delay:2.7s" x="457" y="5" width="212" height="190" fill="url(#sh)"/></g>
+<rect class="trace" style="animation-delay:0.5s" x="457" y="5" width="212" height="190" rx="12" fill="none" stroke="#1a7f37" stroke-width="1.5" stroke-opacity=".8"/>
+<rect x="477" y="25" width="113" height="24" rx="12" fill="#1a7f37" fill-opacity=".14"/>
+<circle class="pulse" cx="491" cy="37" r="4" fill="#1a7f37"/>
+<circle cx="491" cy="37" r="4" fill="#1a7f37"/>
+<text x="503" y="41.5" class="pill" fill="#1a7f37">Em produção</text>
+<text x="477" y="74" class="kick">AGENDAFLOW</text>
+<text x="477" y="96" class="name">Bot WhatsApp</text>
+<text x="477" y="121" class="desc">Agendamento com IA</text>
+<text x="477" y="139" class="desc">direto no WhatsApp</text>
+<line x1="477" y1="155" x2="649" y2="155" stroke="#d0d7de"/>
+<text x="477" y="178" class="tag">Claude · WhatsApp API</text>
+</g>
+<g class="card" style="animation-delay:0.75s">
+<clipPath id="c3"><rect x="684" y="5" width="212" height="190" rx="12"/></clipPath>
+<rect x="684" y="5" width="212" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g clip-path="url(#c3)"><rect class="shine" style="animation-delay:3.3s" x="684" y="5" width="212" height="190" fill="url(#sh)"/></g>
+<rect class="trace" style="animation-delay:0.75s" x="684" y="5" width="212" height="190" rx="12" fill="none" stroke="#9a6700" stroke-width="1.5" stroke-opacity=".8"/>
+<rect x="704" y="25" width="106" height="24" rx="12" fill="#9a6700" fill-opacity=".14"/>
+<circle class="pulse" cx="718" cy="37" r="4" fill="#9a6700"/>
+<circle cx="718" cy="37" r="4" fill="#9a6700"/>
+<text x="730" y="41.5" class="pill" fill="#9a6700">Play Store</text>
+<text x="704" y="74" class="kick">FLOW</text>
+<text x="704" y="96" class="name">FlowPay</text>
+<text x="704" y="121" class="desc">Pagamentos dos clientes</text>
+<text x="704" y="139" class="desc">dos produtos Flow</text>
+<line x1="704" y1="155" x2="876" y2="155" stroke="#d0d7de"/>
+<text x="704" y="178" class="tag">Flutter · Firebase</text>
 </g>
 </svg>

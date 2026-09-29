@@ -13,7 +13,7 @@
 </style>
 <rect x="0.5" y="0.5" width="899" height="329" rx="12" fill="#0d1117" stroke="#30363d"/>
 <text x="20" y="52" class="lbl">FLUXO DE ATENDIMENTO</text>
-<text x="20" y="197" class="lbl">FLUXO FINANCEIRO E ADMIN</text>
+<text x="20" y="197" class="lbl">GESTÃO E PAGAMENTOS</text>
 <line class="flow" x1="180.0" y1="90.0" x2="250.0" y2="90.0" stroke="#58a6ff" stroke-width="1.5"/>
 <line class="flowr" x1="180.0" y1="104.0" x2="250.0" y2="104.0" stroke="#3fb950" stroke-width="1.5"/>
 <path d="M244.0,86.0 L250.0,90.0 L244.0,94.0" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
@@ -49,8 +49,8 @@
 <rect class="node" style="animation-delay:0.4s" x="250.0" y="70" width="160" height="54" rx="10" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/><text x="330" y="93" text-anchor="middle" class="nm">Webhook</text><text x="330" y="111" text-anchor="middle" class="sb">FastAPI</text>
 <rect class="node" style="animation-delay:0.8s" x="480.0" y="70" width="160" height="54" rx="10" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/><text x="560" y="93" text-anchor="middle" class="nm">Claude</text><text x="560" y="111" text-anchor="middle" class="sb">tool-use loop</text>
 <rect class="node" style="animation-delay:1.2000000000000002s" x="710.0" y="70" width="160" height="54" rx="10" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/><text x="790" y="93" text-anchor="middle" class="nm">PostgreSQL</text><text x="790" y="111" text-anchor="middle" class="sb">agenda · empresas</text>
-<rect class="node" style="animation-delay:1.6s" x="20.0" y="215" width="160" height="54" rx="10" fill="#161b22" stroke="#bc8cff" stroke-width="1.5"/><text x="100" y="238" text-anchor="middle" class="nm">Painel</text><text x="100" y="256" text-anchor="middle" class="sb">Next.js 16</text>
-<rect class="node" style="animation-delay:2.0s" x="250.0" y="215" width="160" height="54" rx="10" fill="#161b22" stroke="#bc8cff" stroke-width="1.5"/><text x="330" y="238" text-anchor="middle" class="nm">Admin API</text><text x="330" y="256" text-anchor="middle" class="sb">FastAPI · JWT</text>
+<rect class="node" style="animation-delay:1.6s" x="20.0" y="215" width="160" height="54" rx="10" fill="#161b22" stroke="#bc8cff" stroke-width="1.5"/><text x="100" y="238" text-anchor="middle" class="nm">Painéis</text><text x="100" y="256" text-anchor="middle" class="sb">controle · recepção</text>
+<rect class="node" style="animation-delay:2.0s" x="250.0" y="215" width="160" height="54" rx="10" fill="#161b22" stroke="#bc8cff" stroke-width="1.5"/><text x="330" y="238" text-anchor="middle" class="nm">API</text><text x="330" y="256" text-anchor="middle" class="sb">FastAPI · JWT</text>
 <rect class="node" style="animation-delay:2.4000000000000004s" x="480.0" y="215" width="160" height="54" rx="10" fill="#161b22" stroke="#bc8cff" stroke-width="1.5"/><text x="560" y="238" text-anchor="middle" class="nm">Workers</text><text x="560" y="256" text-anchor="middle" class="sb">cobrança · lembretes</text>
 <rect class="node" style="animation-delay:2.8000000000000003s" x="710.0" y="215" width="160" height="54" rx="10" fill="#161b22" stroke="#d29922" stroke-width="1.5"/><text x="790" y="238" text-anchor="middle" class="nm">PIX</text><text x="790" y="256" text-anchor="middle" class="sb">Asaas · Mercado Pago</text>
 <circle cx="25" cy="304" r="4.5" fill="#58a6ff"/><text x="35" y="308" class="lg">requisição</text>

@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Terminal animado com apresentação de Igor Santos">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="352" viewBox="0 0 900 352" role="img" aria-label="Terminal animado com apresentação de Igor Santos">
 <style>
 .t{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace;font-size:15px;white-space:pre}
 .title{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace;font-size:12px;fill:#57606a}
 .cur{animation:blink 1s steps(1) infinite}
 @keyframes blink{50%{opacity:0}}
 </style>
-<rect x="0.5" y="0.5" width="899" height="329" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="0.5" y="0.5" width="899" height="351" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <path d="M12.5,0.5 H887.5 A12,12 0 0 1 899.5,12.5 V36 H0.5 V12.5 A12,12 0 0 1 12.5,0.5 Z" fill="#f6f8fa"/>
 <line x1="0.5" y1="36" x2="899.5" y2="36" stroke="#d0d7de"/>
 <circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
@@ -19,20 +19,22 @@
 <clipPath id="l5"><rect x="24" y="170" height="23" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;860;860;0" keyTimes="0;0.3563;0.3750;0.97;1"/></rect></clipPath>
 <clipPath id="l6"><rect x="24" y="193" height="23" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;860;860;0" keyTimes="0;0.3812;0.4000;0.97;1"/></rect></clipPath>
 <clipPath id="l7"><rect x="24" y="216" height="23" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;860;860;0" keyTimes="0;0.4062;0.4250;0.97;1"/></rect></clipPath>
-<clipPath id="l8"><rect x="24" y="239" height="23" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;162;162;0" keyTimes="0;0.4562;0.5125;0.97;1"/></rect></clipPath>
-<clipPath id="l9"><rect x="24" y="262" height="23" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;860;860;0" keyTimes="0;0.5375;0.5656;0.97;1"/></rect></clipPath>
+<clipPath id="l8"><rect x="24" y="239" height="23" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;860;860;0" keyTimes="0;0.4313;0.4500;0.97;1"/></rect></clipPath>
+<clipPath id="l9"><rect x="24" y="262" height="23" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;162;162;0" keyTimes="0;0.4813;0.5375;0.97;1"/></rect></clipPath>
+<clipPath id="l10"><rect x="24" y="285" height="23" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear" values="0;0;860;860;0" keyTimes="0;0.5625;0.5906;0.97;1"/></rect></clipPath>
 </defs>
 <text x="28" y="72" class="t" clip-path="url(#l0)"><tspan fill="#0969da">❯ </tspan><tspan fill="#1f2328">whoami</tspan></text>
 <text x="28" y="95" class="t" clip-path="url(#l1)"><tspan fill="#1f2328">Igor Santos</tspan><tspan fill="#57606a">  ·  </tspan><tspan fill="#1f2328">Back-end Developer</tspan><tspan fill="#57606a">  ·  </tspan><tspan fill="#8250df">Founder @ Flow</tspan></text>
 <text x="28" y="118" class="t" clip-path="url(#l2)"><tspan fill="#0969da">❯ </tspan><tspan fill="#1f2328">cat stack.txt</tspan></text>
 <text x="28" y="141" class="t" clip-path="url(#l3)"><tspan fill="#1f2328">Python · FastAPI · C# · ASP.NET · PostgreSQL · Docker · Kubernetes · Claude API</tspan></text>
 <text x="28" y="164" class="t" clip-path="url(#l4)"><tspan fill="#0969da">❯ </tspan><tspan fill="#1f2328">./status --produtos</tspan></text>
-<text x="28" y="187" class="t" clip-path="url(#l5)"><tspan fill="#1a7f37">●</tspan><tspan fill="#1f2328"> AgendaFlow ........... </tspan><tspan fill="#1a7f37">em produção</tspan></text>
-<text x="28" y="210" class="t" clip-path="url(#l6)"><tspan fill="#1a7f37">●</tspan><tspan fill="#1f2328"> AgendaFlow Admin ..... </tspan><tspan fill="#1a7f37">em produção</tspan></text>
-<text x="28" y="233" class="t" clip-path="url(#l7)"><tspan fill="#9a6700">◐</tspan><tspan fill="#1f2328"> FlowPay .............. </tspan><tspan fill="#9a6700">revisão na Play Store</tspan></text>
-<text x="28" y="256" class="t" clip-path="url(#l8)"><tspan fill="#0969da">❯ </tspan><tspan fill="#1f2328">echo $OBJETIVO</tspan></text>
-<text x="28" y="279" class="t" clip-path="url(#l9)"><tspan fill="#1f2328">Back-end / Full Stack · Júnior/Pleno · Brasil → Mundo</tspan></text>
-<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.5938;0.97"/>
-<text x="28" y="302" class="t"><tspan fill="#0969da">❯ </tspan></text>
-<rect class="cur" x="46.2" y="288" width="9" height="18" fill="#0969da"/></g>
+<text x="28" y="187" class="t" clip-path="url(#l5)"><tspan fill="#1a7f37">●</tspan><tspan fill="#1f2328"> AgendaFlow · Painel de Controle ... </tspan><tspan fill="#1a7f37">em produção</tspan></text>
+<text x="28" y="210" class="t" clip-path="url(#l6)"><tspan fill="#1a7f37">●</tspan><tspan fill="#1f2328"> AgendaFlow · Painel Recepção ...... </tspan><tspan fill="#1a7f37">em produção</tspan></text>
+<text x="28" y="233" class="t" clip-path="url(#l7)"><tspan fill="#1a7f37">●</tspan><tspan fill="#1f2328"> AgendaFlow · Bot WhatsApp ......... </tspan><tspan fill="#1a7f37">em produção</tspan></text>
+<text x="28" y="256" class="t" clip-path="url(#l8)"><tspan fill="#9a6700">◐</tspan><tspan fill="#1f2328"> FlowPay ........................... </tspan><tspan fill="#9a6700">revisão na Play Store</tspan></text>
+<text x="28" y="279" class="t" clip-path="url(#l9)"><tspan fill="#0969da">❯ </tspan><tspan fill="#1f2328">echo $OBJETIVO</tspan></text>
+<text x="28" y="302" class="t" clip-path="url(#l10)"><tspan fill="#1f2328">Back-end / Full Stack · Júnior/Pleno · Brasil → Mundo</tspan></text>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.6188;0.97"/>
+<text x="28" y="325" class="t"><tspan fill="#0969da">❯ </tspan></text>
+<rect class="cur" x="46.2" y="311" width="9" height="18" fill="#0969da"/></g>
 </svg>

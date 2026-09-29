@@ -56,9 +56,9 @@
 
 Sou desenvolvedor back-end e fundador de produto. Trabalho principalmente com Python (FastAPI) e C# (ASP.NET, ASP.NET MVC), construindo APIs REST, integrações com IA generativa e sistemas que lidam com dinheiro de verdade, mensagens de verdade e clientes de verdade.
 
-Passei pelo desenvolvimento corporativo na Wooba, mantendo fluxos de busca de voos e hotéis de uma plataforma de viagens em produção, e hoje toco a **Flow**, minha marca de produtos SaaS. O principal deles é o **AgendaFlow**, um sistema de agendamento via WhatsApp com atendimento por IA, pagamentos PIX e painel administrativo, rodando em produção. Antes da tecnologia, trabalhei na operação de indústrias farmacêuticas, e isso ficou: gosto de processo, de rastreabilidade e de sistema que não quebra quando o volume aumenta.
+Passei pelo desenvolvimento corporativo na Wooba, mantendo fluxos de busca de voos e hotéis de uma plataforma de viagens em produção, e hoje toco a **Flow**, minha marca de produtos SaaS. O principal deles é o **AgendaFlow**, um sistema de agendamento com Painel de Controle (um CRM completo), Painel Recepção e bot de atendimento por IA no WhatsApp, rodando em produção. Os clientes dos produtos Flow pagam suas mensalidades pelo **FlowPay**, nosso app de pagamentos. Antes da tecnologia, trabalhei na operação de indústrias farmacêuticas, e isso ficou: gosto de processo, de rastreabilidade e de sistema que não quebra quando o volume aumenta.
 
-Curso Engenharia de Software na FIAP e Desenvolvimento Back-end Python na EBAC, e sigo estudando System Design, Clean Architecture, cloud e inglês para atuar em times internacionais.
+Concluí a formação em Desenvolvimento Back-end Python na EBAC, curso Engenharia de Software na FIAP e sigo estudando System Design, Clean Architecture, cloud e inglês para atuar em times internacionais.
 
 **Buscando:** vaga de Desenvolvedor Back-end ou Full Stack, nível Júnior/Pleno, nacional ou internacional, remoto ou híbrido.
 
@@ -80,7 +80,7 @@ Curso Engenharia de Software na FIAP e Desenvolvimento Back-end Python na EBAC, 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/produtos-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="./assets/produtos-light.svg"/>
-  <img width="100%" src="./assets/produtos-dark.svg" alt="AgendaFlow e AgendaFlow Admin em produção, FlowPay em revisão na Play Store"/>
+  <img width="100%" src="./assets/produtos-dark.svg" alt="AgendaFlow com Painel de Controle, Painel Recepção e Bot WhatsApp em produção; FlowPay em revisão na Play Store"/>
 </picture>
 
 </div>
@@ -90,7 +90,7 @@ Curso Engenharia de Software na FIAP e Desenvolvimento Back-end Python na EBAC, 
 ### Experiência
 
 **Fundador e Desenvolvedor · Flow / Nexus Informática** (desde 05/2024)
-Criação e operação de produtos SaaS próprios, do banco de dados ao deploy e à cobrança do cliente. Desenvolvi sozinho o AgendaFlow (FastAPI, PostgreSQL, Claude API, WhatsApp Cloud API), o painel administrativo em Next.js e o app FlowPay em Flutter, com pagamentos via Mercado Pago e Asaas, workers agendados e infraestrutura no Railway. Pela Nexus Informática, também atuo como consultor e técnico de TI para empresas e escritórios: montagem e manutenção de desktops, suporte de hardware e software e gestão direta de clientes.
+Criação e operação de produtos SaaS próprios, do banco de dados ao deploy e à cobrança do cliente. Desenvolvi sozinho o AgendaFlow (FastAPI, PostgreSQL, Claude API, WhatsApp Cloud API), com Painel de Controle, Painel Recepção e bot de atendimento, e o app FlowPay em Flutter, com pagamentos via Mercado Pago e Asaas, workers agendados e infraestrutura no Railway. Pela Nexus Informática, também atuo como consultor e técnico de TI para empresas e escritórios: montagem e manutenção de desktops, suporte de hardware e software e gestão direta de clientes.
 
 **Desenvolvedor Back-end · Wooba**
 C#, ASP.NET MVC, APIs REST, JavaScript e jQuery em uma plataforma de reservas de viagens em produção. Implementei e depurei fluxos independentes de busca de voos e hotéis, corrigi problemas de roteamento, bugs de sincronização no motor de front-end e falhas de autenticação com fornecedores.
@@ -108,13 +108,17 @@ C#, ASP.NET MVC, APIs REST, JavaScript e jQuery em uma plataforma de reservas de
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-Empresas como barbearias, salões e clínicas contratam o AgendaFlow e seus clientes passam a agendar, remarcar e cancelar horários conversando no WhatsApp da própria empresa. O atendimento é feito pelo Claude com tool-use, consultando a agenda real no banco.
+Empresas como barbearias, salões e clínicas contratam o AgendaFlow para operar a agenda de ponta a ponta. O produto tem três frentes:
+
+- **Painel de Controle:** CRM completo da empresa, com cadastro de funcionários, serviços, unidades, clientes e agenda
+- **Painel Recepção:** a rotina do balcão, com a agenda do dia e os atendimentos em tempo real
+- **Bot WhatsApp:** os clientes agendam, remarcam e cancelam conversando no WhatsApp da própria empresa, com atendimento feito pelo Claude via tool-use, consultando a agenda real no banco
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/arquitetura-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="./assets/arquitetura-light.svg"/>
-  <img width="100%" src="./assets/arquitetura-dark.svg" alt="Arquitetura do AgendaFlow: WhatsApp, Webhook FastAPI, Claude e PostgreSQL no atendimento; Painel, Admin API, Workers e PIX no fluxo financeiro"/>
+  <img width="100%" src="./assets/arquitetura-dark.svg" alt="Arquitetura do AgendaFlow: WhatsApp, Webhook FastAPI, Claude e PostgreSQL no atendimento; Painéis, API, Workers e PIX na gestão e pagamentos"/>
 </picture>
 </div>
 
@@ -122,19 +126,9 @@ Empresas como barbearias, salões e clínicas contratam o AgendaFlow e seus clie
 - **Webhook resiliente:** deduplicação por `message_id`, expiração de conversa e resposta sempre 200 para evitar reenvio em cascata da Meta
 - **Modelo multiunidade:** empresas, unidades com número próprio de WhatsApp, profissionais e serviços, com trava de conflito por profissional usando índices parciais
 - **Pagamentos:** PIX via Mercado Pago para mensalidades e Asaas com subconta por empresa para sinais de agendamento, webhook de confirmação e estorno automático com camadas de segurança
-- **Segurança:** API keys com HMAC + pepper, bcrypt + JWT no painel, validação real de CNPJ e rate limiting distribuído persistido no PostgreSQL
-- **Operação:** workers agendados para cobrança e lembretes, score de risco, central de pendências e painel de saúde operacional por empresa
-- **Onboarding via Meta:** Cadastro Incorporado (Embedded Signup) para conectar o WhatsApp Business do cliente direto pelo painel
-
-🔒 Código privado (produto comercial). Demonstração técnica disponível em entrevista.
-
-#### AgendaFlow Admin · Painel administrativo
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-Painel em Next.js (App Router) para gerenciar empresas, unidades, profissionais, serviços, formas de pagamento e templates de mensagem. O dashboard reúne visão executiva, operacional e financeira, incluindo um motor de preço sugerido calculado a partir do custo real de IA e infraestrutura com margem configurável.
+- **Segurança:** API keys com HMAC + pepper, bcrypt + JWT nos painéis, validação real de CNPJ e rate limiting distribuído persistido no PostgreSQL
+- **Operação:** workers agendados para cobrança e lembretes automáticos
+- **Onboarding via Meta:** conexão do WhatsApp Business de cada empresa pelo Cadastro Incorporado (Embedded Signup)
 
 🔒 Código privado (produto comercial). Demonstração técnica disponível em entrevista.
 
@@ -144,7 +138,7 @@ Painel em Next.js (App Router) para gerenciar empresas, unidades, profissionais,
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-App Android da Flow para que clientes pagantes acompanhem e paguem suas faturas de qualquer produto Flow. Login por código via WhatsApp, notificações push, atualização em tempo real, token em armazenamento seguro (Keystore) e tratamento completo de perda de conexão. Foi meu primeiro projeto mobile, levado do zero até a publicação.
+App Android usado pelos clientes que contratam produtos Flow para acompanhar e pagar suas faturas. Login por código via WhatsApp, notificações push, atualização em tempo real, token em armazenamento seguro (Keystore) e tratamento completo de perda de conexão. Foi meu primeiro projeto mobile, levado do zero até a publicação.
 
 🔒 Código privado (produto comercial). Demonstração técnica disponível em entrevista.
 
@@ -213,7 +207,7 @@ Portal em React.js e TypeScript com arquitetura em Micro Frontends.
 ### Formação
 
 - **Engenharia de Software** · FIAP (em andamento)
-- **Desenvolvimento Back-end Python** · EBAC (em andamento)
+- **Desenvolvimento Back-end Python** · EBAC (concluído)
 - **EBAC · Escola Britânica de Artes Criativas e Tecnologia** · Desenvolvimento de API, Arquitetura de Software, Integração e Entrega Contínua (CI/CD), Desenvolvimento Back-end, Desenvolvimento Front-end, IA Generativa para Desenvolvedores Web, Programação Orientada a Objetos, Desenvolvimento Orientado a Testes
 - **T.I do Zero ao Pro** · Introdução à Programação, Linux
 
@@ -239,8 +233,9 @@ Estudar faz parte da rotina, não é uma etapa concluída. Os próximos alvos s�
 2025  Docker, Kubernetes, PostgreSQL, SQL Server, GitHub Actions
 2025  IA generativa: Claude API, OpenAI, LangChain
 2025  System Design, Clean Architecture, DDD
-2026  AgendaFlow em produção: IA + WhatsApp + PIX
-2026  Next.js no painel admin, Flutter no app FlowPay
+2026  Conclusão do Back-end Python na EBAC
+2026  AgendaFlow em produção: CRM, recepção, bot com IA e PIX
+2026  Flutter e Firebase no app FlowPay
 2026  Cloud (AWS/Azure) e inglês profissional em andamento
 ```
 
