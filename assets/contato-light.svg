@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Contato"><style>
+.in{opacity:0;animation:in .7s cubic-bezier(.2,.8,.2,1) forwards}
+.pop{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .5s cubic-bezier(.3,1.5,.5,1) forwards}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 1.8s ease-out infinite}
+.nudge{animation:nudge 1.4s ease-in-out infinite}
+.shine{animation:shine 6s ease-in-out infinite}
+.t{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328}
+.m{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#57606a}
+.mono{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes pop{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:scale(1)}}
+@keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3);opacity:0}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+@keyframes shine{0%{transform:translateX(-400px)}55%,100%{transform:translateX(1300px)}}
+@keyframes draw{to{stroke-dashoffset:0}}
+.flap{transform-box:fill-box;transform-origin:top;animation:flap 3s ease-in-out infinite}
+@keyframes flap{0%,20%,100%{transform:scaleY(1)}35%,70%{transform:scaleY(-1)}}
+.letter{animation:letter 3s ease-in-out infinite}@keyframes letter{0%,30%,100%{transform:translateY(0)}45%,65%{transform:translateY(-18px)}}
+.b1{opacity:0;animation:b1 6s ease-in-out infinite}.b2{opacity:0;animation:b2 6s ease-in-out infinite}.ty{opacity:0;animation:ty 6s ease-in-out infinite}
+@keyframes b1{0%,5%{opacity:0;transform:translateY(8px)}12%,85%{opacity:1;transform:none}92%,100%{opacity:0}}
+@keyframes ty{0%,15%{opacity:0}20%,38%{opacity:1}42%,100%{opacity:0}}
+@keyframes b2{0%,40%{opacity:0;transform:translateY(8px)}47%,85%{opacity:1;transform:none}92%,100%{opacity:0}}
+.dt{animation:dt 1s ease-in-out infinite}@keyframes dt{0%,100%{opacity:.3}50%{opacity:1}}</style><defs><linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#0969da" stop-opacity="0"/><stop offset=".5" stop-color="#0969da" stop-opacity=".08"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/></linearGradient><clipPath id="cc"><rect x="1" y="1" width="898" height="178" rx="14"/></clipPath></defs><rect x="1" y="1" width="898" height="178" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><g clip-path="url(#cc)"><rect class="shine" x="0" y="0" width="320" height="180" fill="url(#sh)"/></g><rect class="letter" x="50" y="60" width="60" height="44" rx="4" fill="#ffffff" stroke="#d0d7de"/><line class="letter" x1="60" y1="74" x2="100" y2="74" stroke="#f76707" stroke-width="3" stroke-linecap="round"/><rect x="40" y="72" width="80" height="56" rx="8" fill="#f76707"/><path d="M40,80 L80,106 L120,80" fill="none" stroke="#fff" stroke-opacity=".5" stroke-width="2"/><path class="flap" d="M40,72 L80,98 L120,72 Z" fill="#ff9a4d"/><circle class="pulse" cx="118" cy="74" r="7" fill="#1a7f37"/><circle cx="118" cy="74" r="7" fill="#1a7f37"/><g class="in" style="animation-delay:.2s"><text x="150" y="80" class="t" style="font-size:30px;font-weight:800">Bora conversar?</text><text x="150" y="108" class="m" style="font-size:14.5px">Aberto a vagas Back-end e Full Stack,</text><text x="150" y="128" class="m" style="font-size:14.5px">nacionais e internacionais.</text><text x="150" y="154" class="mono" style="font-size:12px" fill="#f76707">❯ LinkedIn ou email, logo abaixo</text></g><g class="b1"><rect x="560" y="36" width="230" height="38" rx="14" fill="#ffffff" stroke="#d0d7de"/><text x="576" y="60" class="t" style="font-size:13px">Oi Igor, vi seu perfil no GitHub!</text></g><g class="ty"><rect x="790" y="88" width="70" height="34" rx="14" fill="#f76707" fill-opacity=".9"/><circle class="dt" style="animation-delay:0.0s" cx="810" cy="105" r="4" fill="#fff"/><circle class="dt" style="animation-delay:0.2s" cx="825" cy="105" r="4" fill="#fff"/><circle class="dt" style="animation-delay:0.4s" cx="840" cy="105" r="4" fill="#fff"/></g><g class="b2"><rect x="570" y="88" width="296" height="38" rx="14" fill="#f76707"/><text x="586" y="112" style="font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;font-weight:600" fill="#fff">Bora! Me chama que eu respondo rápido.</text></g></svg>

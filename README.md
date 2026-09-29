@@ -21,7 +21,7 @@
 
 </div>
 
----
+<div align="center"><img width="100%" src="./assets/divisor.svg" alt=""/></div>
 
 ### Índice
 
@@ -41,7 +41,7 @@
 
 </div>
 
----
+<div align="center"><img width="100%" src="./assets/divisor.svg" alt=""/></div>
 
 ### Sobre mim
 
@@ -70,7 +70,7 @@ Concluí a formação em Desenvolvimento Back-end Python na EBAC, curso Engenhar
 </tr>
 </table>
 
----
+<div align="center"><img width="100%" src="./assets/divisor.svg" alt=""/></div>
 
 ### O que estou construindo agora
 
@@ -84,17 +84,19 @@ Concluí a formação em Desenvolvimento Back-end Python na EBAC, curso Engenhar
 
 </div>
 
----
+<div align="center"><img width="100%" src="./assets/divisor.svg" alt=""/></div>
 
 ### Experiência
 
-**Fundador e Desenvolvedor · Flow / Nexus Informática** (desde 05/2024)
-Criação e operação de produtos SaaS próprios, do banco de dados ao deploy e à cobrança do cliente. Desenvolvi sozinho o AgendaFlow (FastAPI, PostgreSQL, Claude API, WhatsApp Cloud API), com Painel de Controle, Painel Recepção e bot de atendimento, e o app FlowPay em Flutter, com pagamentos via Mercado Pago e Asaas, workers agendados e infraestrutura no Railway. Pela Nexus Informática, também atuo como consultor e técnico de TI para empresas e escritórios: montagem e manutenção de desktops, suporte de hardware e software e gestão direta de clientes.
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/experiencia-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/experiencia-light.svg"/>
+  <img width="100%" src="./assets/experiencia-dark.svg" alt="Experiência: Fundador e Desenvolvedor na Flow / Nexus Informática desde 05/2024 e Desenvolvedor Back-end na Wooba"/>
+</picture>
+</div>
 
-**Desenvolvedor Back-end · Wooba**
-C#, ASP.NET MVC, APIs REST, JavaScript e jQuery em uma plataforma de reservas de viagens em produção. Implementei e depurei fluxos independentes de busca de voos e hotéis, corrigi problemas de roteamento, bugs de sincronização no motor de front-end e falhas de autenticação com fornecedores.
-
----
+<div align="center"><img width="100%" src="./assets/divisor.svg" alt=""/></div>
 
 ### Projetos em destaque
 
@@ -141,104 +143,53 @@ App Android usado pelos clientes que contratam produtos Flow para acompanhar e p
 
 🔒 Código privado (produto comercial). Demonstração técnica disponível em entrevista.
 
-#### API de Livros · Back-end com observabilidade e CI/CD
+#### Outros projetos
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<div align="center">
 
-API em FastAPI e SQLAlchemy com stack completa de observabilidade (Celery, Redis, Kafka e ELK com logs em JSON via Logstash), testes com pytest isolados por `conftest.py` e pipeline no GitHub Actions publicando imagens no GHCR e fazendo deploy em Kubernetes (Minikube) via runner self-hosted.
+<a href="https://github.com/IgorSantosD3v/livros-api"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/livros-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/projetos/livros-light.svg"/><img width="32%" src="./assets/projetos/livros-dark.svg" alt="API de Livros"/></picture></a>
+<a href="https://github.com/IgorSantosD3v/pokemon-api"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/pokemon-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/projetos/pokemon-light.svg"/><img width="32%" src="./assets/projetos/pokemon-dark.svg" alt="Pokémon API"/></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projetos/viajaja-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/projetos/viajaja-light.svg"/><img width="32%" src="./assets/projetos/viajaja-dark.svg" alt="ViajaJá"/></picture>
 
-Repositório: [livros-api](https://github.com/IgorSantosD3v/livros-api)
+</div>
 
-#### Pokémon API · Projeto companheiro
-
-API na mesma arquitetura da API de Livros, com tipos duplos, stats reais da primeira geração, endpoint de batalha e tarefas assíncronas com Celery.
-
-Repositório: [pokemon-api](https://github.com/IgorSantosD3v/pokemon-api)
-
-#### ViajaJá · Portal de viagens
-
-Portal em React.js e TypeScript com arquitetura em Micro Frontends.
-
----
+<div align="center"><img width="100%" src="./assets/divisor.svg" alt=""/></div>
 
 ### Tecnologias
 
 <div align="center">
-
-**Back-end**
-
-[![Back-end Skills](https://skillicons.dev/icons?i=python,fastapi,cs,dotnet,nodejs,nestjs)](https://skillicons.dev)
-
-**Front-end e mobile**
-
-[![Front-end Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,flutter,dart)](https://skillicons.dev)
-
-**Dados e infraestrutura**
-
-[![Data & Infra Skills](https://skillicons.dev/icons?i=postgres,redis,kafka,docker,kubernetes,githubactions,firebase,linux,git)](https://skillicons.dev)
-
-**IA e integrações**
-
-[![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://developers.facebook.com/docs/whatsapp)
-[![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)](https://www.mercadopago.com.br)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tecnologias-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/tecnologias-light.svg"/>
+  <img width="100%" src="./assets/tecnologias-dark.svg" alt="Tecnologias por área: back-end, front-end, mobile, dados, infra, IA, pagamentos e práticas"/>
+</picture>
 </div>
 
-| Área | Tecnologias |
-|---|---|
-| Back-end | Python, FastAPI, psycopg, SQLAlchemy, Celery, C#, ASP.NET, ASP.NET MVC, .NET, Node.js, NestJS |
-| Front-end | Next.js, React.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS, jQuery, Vite, Micro Frontends |
-| Mobile | Flutter, Dart, Firebase Cloud Messaging |
-| Dados | PostgreSQL, SQL Server, SQLite, Redis, SQL |
-| Infraestrutura | Docker, Docker Compose, Kubernetes, GitHub Actions, GHCR, Railway, Apache Kafka, ELK Stack |
-| IA | Claude API (tool-use), Claude Code, MCP, OpenAI, LangChain, LLMs locais |
-| Pagamentos e mensageria | Mercado Pago (PIX), Asaas (subcontas), WhatsApp Cloud API, Meta Embedded Signup |
-| Práticas | API REST, webhooks idempotentes, TDD, Clean Architecture, System Design, Git/GitHub, Postman |
-
----
+<div align="center"><img width="100%" src="./assets/divisor.svg" alt=""/></div>
 
 ### Formação
 
-- **Engenharia de Software** · FIAP (em andamento)
-- **Desenvolvimento Back-end Python** · EBAC (concluído)
-- **EBAC · Escola Britânica de Artes Criativas e Tecnologia** · Desenvolvimento de API, Arquitetura de Software, Integração e Entrega Contínua (CI/CD), Desenvolvimento Back-end, Desenvolvimento Front-end, IA Generativa para Desenvolvedores Web, Programação Orientada a Objetos, Desenvolvimento Orientado a Testes
-- **T.I do Zero ao Pro** · Introdução à Programação, Linux
-
 <div align="center">
-
-![FIAP](https://img.shields.io/badge/FIAP-Engenharia_de_Software-1a1a2e?style=for-the-badge)
-![EBAC](https://img.shields.io/badge/EBAC-Back--end_Python_%26_Full_Stack-1a1a2e?style=for-the-badge)
-![T.I do Zero ao Pro](https://img.shields.io/badge/T.I_do_Zero_ao_Pro-Introdução_à_Programação-1a1a2e?style=for-the-badge)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/formacao-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/formacao-light.svg"/>
+  <img width="100%" src="./assets/formacao-dark.svg" alt="Formação: Engenharia de Software na FIAP (em andamento), Back-end Python na EBAC (concluído), formações complementares EBAC e T.I do Zero ao Pro"/>
+</picture>
 </div>
 
-Estudar faz parte da rotina, não é uma etapa concluída. Os próximos alvos são certificações em cloud (AWS/Azure) e inglês profissional.
-
----
+<div align="center"><img width="100%" src="./assets/divisor.svg" alt=""/></div>
 
 ### Trajetória
 
-```text
-2023  Python, lógica de programação, POO, estruturas de dados
-2024  APIs REST, banco de dados relacional, Git avançado
-2024  C#, ASP.NET, ASP.NET MVC em produção na Wooba
-2024  Fundação da Nexus Informática
-2025  Docker, Kubernetes, PostgreSQL, SQL Server, GitHub Actions
-2025  IA generativa: Claude API, OpenAI, LangChain
-2025  System Design, Clean Architecture, DDD
-2026  Conclusão do Back-end Python na EBAC
-2026  AgendaFlow em produção: CRM, recepção, bot com IA e PIX
-2026  Flutter e Firebase no app FlowPay
-2026  Cloud (AWS/Azure) e inglês profissional em andamento
-```
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/trajetoria-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/trajetoria-light.svg"/>
+  <img width="100%" src="./assets/trajetoria-dark.svg" alt="Trajetória de 2023 a 2026"/>
+</picture>
+</div>
 
----
+<div align="center"><img width="100%" src="./assets/divisor.svg" alt=""/></div>
 
 ### GitHub
 
@@ -260,11 +211,17 @@ Estudar faz parte da rotina, não é uma etapa concluída. Os próximos alvos s�
 
 </div>
 
----
+<div align="center"><img width="100%" src="./assets/divisor.svg" alt=""/></div>
 
 ### Contato
 
-Aberto a oportunidades nacionais e internacionais como desenvolvedor Back-end ou Full Stack. Se você quer conversar sobre uma vaga, um projeto ou trocar ideia sobre IA aplicada a produto, me chama no LinkedIn ou por email.
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contato-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contato-light.svg"/>
+  <img width="100%" src="./assets/contato-dark.svg" alt="Bora conversar? Aberto a vagas Back-end e Full Stack, nacionais e internacionais"/>
+</picture>
+</div>
 
 <div align="center">
 
@@ -273,7 +230,7 @@ Aberto a oportunidades nacionais e internacionais como desenvolvedor Back-end ou
 
 </div>
 
----
+<div align="center"><img width="100%" src="./assets/divisor.svg" alt=""/></div>
 
 <div align="center">
 <sub>IgorSantosD3v · Anápolis, GO · Brazil</sub>
