@@ -9,6 +9,7 @@ import os
 import sys
 import urllib.request
 from xml.sax.saxutils import escape
+from zoneinfo import ZoneInfo
 
 LOGIN = os.environ.get("GH_LOGIN", "IgorSantosD3v")
 OUT = sys.argv[1] if len(sys.argv) > 1 else "dist"
@@ -74,7 +75,7 @@ def compute(user):
     days = [(dt.date.fromisoformat(d["date"]), d["contributionCount"])
             for w in cal["weeks"] for d in w["contributionDays"]]
     days.sort()
-    today = dt.date.today()
+    today = dt.datetime.now(ZoneInfo("America/Sao_Paulo")).date()
     days = [d for d in days if d[0] <= today]
 
     # sequência atual (se hoje ainda está zerado, conta a partir de ontem)
