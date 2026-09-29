@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="68" viewBox="0 0 290 68" role="img" aria-label="Projetos">
+<style>
+.g{opacity:0;animation:in .7s cubic-bezier(.2,.8,.2,1) 0.27s forwards}
+.num{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace;font-size:15px;font-weight:700;fill:#9a6700}
+.tt{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:15px;font-weight:700;fill:#1f2328}
+.st{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace;font-size:11px;fill:#57606a}
+.arrow{animation:nudge 1.6s ease-in-out 0.84s infinite}
+.sweep{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:sweep 4.5s cubic-bezier(.4,0,.2,1) 1.64s infinite}
+.shine{animation:shine 4.5s ease-in-out 1.64s infinite}
+.box{transform-box:fill-box;transform-origin:center;animation:beat 4.5s ease-in-out 1.64s infinite}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+@keyframes sweep{0%{transform:scaleX(0);opacity:1}35%{transform:scaleX(1);opacity:1}60%,100%{transform:scaleX(1);opacity:0}}
+@keyframes shine{0%{transform:translateX(-120px)}45%,100%{transform:translateX(330px)}}
+@keyframes beat{0%,100%{transform:scale(1)}12%{transform:scale(1.1)}24%{transform:scale(1)}}
+</style>
+<defs>
+<clipPath id="c"><rect x="1" y="1" width="288" height="66" rx="11"/></clipPath>
+<linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#9a6700" stop-opacity="0"/><stop offset=".5" stop-color="#9a6700" stop-opacity=".12"/><stop offset="1" stop-color="#9a6700" stop-opacity="0"/></linearGradient>
+</defs>
+<g class="g">
+<rect x="1" y="1" width="288" height="66" rx="11" fill="#f6f8fa" stroke="#d0d7de"/>
+<g clip-path="url(#c)">
+<rect class="shine" x="0" y="0" width="110" height="68" fill="url(#s)"/>
+<rect class="sweep" x="0" y="64" width="290" height="3" fill="#9a6700"/>
+</g>
+<g class="box"><rect x="14" y="14" width="40" height="40" rx="10" fill="#9a6700" fill-opacity=".14" stroke="#9a6700" stroke-opacity=".45"/>
+<text x="34" y="39" text-anchor="middle" class="num">04</text></g>
+<text x="68" y="31" class="tt">Projetos</text>
+<text x="68" y="49" class="st">em destaque</text>
+<g class="arrow"><path d="M258,34 H272 M266,28 L272,34 L266,40" fill="none" stroke="#9a6700" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+</svg>

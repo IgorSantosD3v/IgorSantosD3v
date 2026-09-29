@@ -30,15 +30,21 @@
 
 ### Índice
 
-* [Sobre mim](#sobre-mim)
-* [O que estou construindo agora](#o-que-estou-construindo-agora)
-* [Experiência](#experiência)
-* [Projetos em destaque](#projetos-em-destaque)
-* [Tecnologias](#tecnologias)
-* [Formação](#formação)
-* [Trajetória](#trajetória)
-* [GitHub](#github)
-* [Contato](#contato)
+<div align="center">
+
+<a href="#sobre-mim"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/indice/01-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/indice/01-light.svg"/><img width="32%" src="./assets/indice/01-dark.svg" alt="Sobre mim"/></picture></a>
+<a href="#o-que-estou-construindo-agora"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/indice/02-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/indice/02-light.svg"/><img width="32%" src="./assets/indice/02-dark.svg" alt="O que estou construindo agora"/></picture></a>
+<a href="#experiência"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/indice/03-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/indice/03-light.svg"/><img width="32%" src="./assets/indice/03-dark.svg" alt="Experiência"/></picture></a>
+<br/>
+<a href="#projetos-em-destaque"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/indice/04-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/indice/04-light.svg"/><img width="32%" src="./assets/indice/04-dark.svg" alt="Projetos em destaque"/></picture></a>
+<a href="#tecnologias"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/indice/05-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/indice/05-light.svg"/><img width="32%" src="./assets/indice/05-dark.svg" alt="Tecnologias"/></picture></a>
+<a href="#formação"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/indice/06-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/indice/06-light.svg"/><img width="32%" src="./assets/indice/06-dark.svg" alt="Formação"/></picture></a>
+<br/>
+<a href="#trajetória"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/indice/07-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/indice/07-light.svg"/><img width="32%" src="./assets/indice/07-dark.svg" alt="Trajetória"/></picture></a>
+<a href="#github"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/indice/08-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/indice/08-light.svg"/><img width="32%" src="./assets/indice/08-dark.svg" alt="GitHub"/></picture></a>
+<a href="#contato"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/indice/09-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/indice/09-light.svg"/><img width="32%" src="./assets/indice/09-dark.svg" alt="Contato"/></picture></a>
+
+</div>
 
 ---
 
