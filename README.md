@@ -65,7 +65,11 @@ Concluí a formação em Desenvolvimento Back-end Python na EBAC, curso Engenhar
 </td>
 <td valign="top" width="35%" align="center">
 
-<img src="./assets/octocat.png.png" width="100%" alt="Terracottocat"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/flowzinho-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/flowzinho-light.svg"/>
+  <img src="./assets/flowzinho-dark.svg" width="100%" alt="Flowzinho, mascote da Flow, contando piadas de dev"/>
+</picture>
 
 </td>
 </tr>
